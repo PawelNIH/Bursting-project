@@ -1,9 +1,11 @@
 Repository for "3D chromatin architecture, BRD4 and Mediator have distinct roles in regulating genome-wide transcriptional bursting and gene network"
 
 Authors
+
 Pawel Trzaskoma1†*, SeolKyoung Jung1†, Aleksandra Pękowska5†, Christopher H. Bohrer2, Xiang Wang1‡, Faiza Naz1, Stefania Dell'Orso1, Wendy D. Dubois2, Ana Olivera3, Supriya V. Vartak1, Yongbing Zhao1, Subhashree Nayak1, Andrew Overmiller1, Maria I. Morasso1, Vittorio Sartorelli1, Daniel R. Larson2, Carson C. Chow4*, Rafael Casellas1, John J. O'Shea1*
 
 Affiliations 
+
 1.	National Institute of Arthritis and Musculoskeletal and Skin Diseases, National Institutes of Health, Bethesda, MD, USA.
 2.	National Cancer Institute, National Institutes of Health, Bethesda, MD, USA.
 3.	National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA.
