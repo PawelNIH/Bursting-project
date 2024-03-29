@@ -19,7 +19,7 @@ These authors contributed equally to this work: Pawel Trzaskoma, SeolKyoung Jung
 Funding: This work was supported by the Intramural Research Programs of the NIAMS, NIDDK, NIAID and NCI of the National Institutes of Health.
 
 This repository includes:
-1)	Summary_files1-3, where we included transcription parameters for all experiments included in the paper: rates along with summary statistics.
+1)	Summary_files_1-3, where we included transcription parameters for all experiments included in the paper: rates along with summary statistics.
 2)	Codes, where we included:
 •	Code used for preprocessing of raw scRNA-Seq data (Preprocessing.r), which was used for filtering and generating count matrices used for the fitting. The raw sequencing and processed data (count matrices for all samples) are available on GEO (GSE241338),
 •	Code used to fit data (StochasticGene_fit.rtf),
