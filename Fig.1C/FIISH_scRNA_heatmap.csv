@@ -1,0 +1,21 @@
+﻿Rate,Expression,Value
+A_ON rate,A_ALL,0.99
+A_ON rate,B_low,0.97
+A_ON rate,C_middle,0.98
+A_ON rate,D_high,0.99
+B_OFF rate,A_ALL,0.78
+B_OFF rate,B_low,0.67
+B_OFF rate,C_middle,0.72
+B_OFF rate,D_high,0.86
+C_Eject Rate,A_ALL,0.93
+C_Eject Rate,B_low,0.83
+C_Eject Rate,C_middle,0.9
+C_Eject Rate,D_high,0.94
+D_Burst Size,A_ALL,0.93
+D_Burst Size,B_low,0.84
+D_Burst Size,C_middle,0.87
+D_Burst Size,D_high,0.98
+E_Expression,A_ALL,1
+E_Expression,B_low,0.99
+E_Expression,C_middle,0.99
+E_Expression,D_high,0.99
