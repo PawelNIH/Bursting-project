@@ -1,0 +1,2319 @@
+﻿Gene,Total_specific,B_enhancer,ES_enhancer,Type
+Myc,14,10,4,> B cells
+Btg1,14,10,4,> B cells
+Tsc22d1,12,1,11,> ES cells
+RP23-85E24.1,11,3,8,> ES cells
+Tgif1,11,3,8,> ES cells
+0610040F04Rik,10,9,1,> B cells
+6430527G18Rik,10,0,10,> ES cells
+Bhlhe40,10,9,1,> B cells
+Med13l,10,5,5,Same
+Mknk2,10,4,6,> ES cells
+Swap70,10,8,2,> B cells
+Dusp1,9,4,5,Same
+Etv5,9,0,9,> ES cells
+Irf2bp2,9,7,2,Same
+Obfc2a,9,8,1,> B cells
+Pvt1,9,9,0,> B cells
+Zfp36l1,9,9,0,> B cells
+Bcar3,8,7,1,> B cells
+Bcl2l11,8,7,1,> B cells
+Calm1,8,2,6,> ES cells
+Cldn25,8,8,0,> B cells
+Gm16998,8,8,0,> B cells
+Man1a,8,8,0,> B cells
+Myh9,8,1,7,> ES cells
+Plekha2,8,8,0,> B cells
+Sik1,8,6,2,> B cells
+Atp6v1a,7,6,1,> B cells
+Ddx6,7,6,1,> B cells
+Hvcn1,7,7,0,> B cells
+Ing1,7,4,3,> ES cells
+Jarid2,7,2,5,> ES cells
+Naa50,7,6,1,> B cells
+Nfil3,7,7,0,> B cells
+Pim3,7,1,6,> ES cells
+Slc38a2,7,5,2,> B cells
+Slc9a3r1,7,2,5,> ES cells
+SNORA71,7,0,7,> ES cells
+Stt3b,7,6,1,Same
+Tfrc,7,4,3,Same
+Tob1,7,1,6,> ES cells
+5S_rRNA,6,1,5,> ES cells
+A330009N23Rik,6,0,6,> ES cells
+Acvr1b,6,1,5,> ES cells
+AL596123.1,6,0,6,> ES cells
+Arf6,6,6,0,> B cells
+Arl15,6,0,6,> ES cells
+Azin1,6,4,2,> B cells
+B4galnt4,6,0,6,> ES cells
+C130036L24Rik,6,2,4,> ES cells
+Cisd3,6,0,6,> ES cells
+Cradd,6,3,3,> ES cells
+Ddit4,6,2,4,> ES cells
+Fam43a,6,3,3,> B cells
+Fbxo11,6,4,2,> ES cells
+Fmnl3,6,5,1,> B cells
+Fnbp1,6,5,1,Same
+Fth1,6,5,1,> B cells
+Gadd45g,6,2,4,> ES cells
+Gimap8,6,5,1,Same
+Gm10244,6,0,6,> ES cells
+Gm11613,6,0,6,> ES cells
+Gm16912,6,2,4,> B cells
+Gm9887,6,6,0,> B cells
+Grasp,6,0,6,> ES cells
+Klf2,6,3,3,> B cells
+Mir3091,6,1,5,> ES cells
+Mkrn1,6,0,6,> ES cells
+Mllt6,6,0,6,> ES cells
+Mylip,6,5,1,> B cells
+Ncl,6,2,4,> ES cells
+Nfkbiz,6,4,2,> B cells
+Nup160,6,6,0,> B cells
+Pim1,6,2,4,> B cells
+Plekho2,6,5,1,> B cells
+Poldip3,6,1,5,> ES cells
+Rcc1,6,1,5,> ES cells
+Rps21,6,1,5,> ES cells
+Sdc4,6,2,4,> ES cells
+Sh3bp5,6,6,0,> B cells
+Slc20a1,6,1,5,> ES cells
+Socs1,6,2,4,> ES cells
+Socs3,6,2,4,> ES cells
+Stk17b,6,6,0,> B cells
+Sub1,6,5,1,> B cells
+Tbl1xr1,6,4,2,> ES cells
+Tmsb4x,6,6,0,> B cells
+1190002H23Rik,5,3,2,> B cells
+1700056E22Rik,5,4,1,> B cells
+4930477E14Rik,5,0,5,Same
+5730420D15Rik,5,0,5,> ES cells
+9130230N09Rik,5,3,2,Same
+9430023L20Rik,5,0,5,> ES cells
+B3gnt2,5,3,2,Same
+B4galt5,5,4,1,> B cells
+BC031781,5,1,4,> ES cells
+BC042782,5,5,0,> B cells
+BC048644,5,2,3,> ES cells
+Best4-ps,5,0,5,> ES cells
+Bola1,5,0,5,> ES cells
+Cab39,5,3,2,Same
+Calm2,5,3,2,> B cells
+Camk2d,5,5,0,> B cells
+Cd81,5,3,2,Same
+Cic,5,1,4,> ES cells
+Cited2,5,4,1,> B cells
+Clic4,5,3,2,> ES cells
+Csnk2a1,5,0,5,> ES cells
+Csrnp2,5,0,5,> ES cells
+Dusp10,5,4,1,> B cells
+Eif2b3,5,0,5,> ES cells
+Fam46c,5,5,0,> B cells
+Fam72a,5,2,3,> ES cells
+Fam89b,5,2,3,> ES cells
+Fbxo36,5,0,5,> ES cells
+Ficd,5,5,0,> B cells
+Gadd45b,5,2,3,> ES cells
+Gm12057,5,3,2,Same
+Gm12474,5,5,0,> B cells
+Gm15444,5,0,5,> ES cells
+Gm16490,5,0,5,> ES cells
+Gm20544,5,2,3,> ES cells
+Gm2529,5,0,5,> ES cells
+Gtdc1,5,5,0,Same
+Hist2h2ab,5,0,5,> ES cells
+Hist2h2ac,5,0,5,> ES cells
+Hist2h2bb,5,0,5,> ES cells
+Hist2h2be,5,0,5,> ES cells
+Hist2h3b,5,0,5,> ES cells
+Hmgb2,5,0,5,> ES cells
+Ier2,5,0,5,> ES cells
+Iscu,5,4,1,Same
+Itpk1,5,0,5,> ES cells
+Jun,5,5,0,> B cells
+Klf3,5,2,3,Same
+Klf9,5,0,5,> ES cells
+Lmbr1l,5,0,5,> ES cells
+Lnpep,5,5,0,> B cells
+Mfsd11,5,4,1,> B cells
+Myo1e,5,5,0,> B cells
+Otud7b,5,0,5,#N/A
+Pabpc1,5,1,4,> ES cells
+Pcif1,5,2,3,> ES cells
+Phip,5,4,1,> B cells
+Ppp1cc,5,4,1,> ES cells
+Ppp1r16b,5,5,0,> B cells
+R74862,5,3,2,Same
+Rbpj,5,3,2,Same
+RP24-201C14.10,5,0,5,> ES cells
+Rps20,5,2,3,> B cells
+Sart3,5,4,1,Same
+Sgk1,5,0,5,> ES cells
+Slc25a39,5,0,5,> ES cells
+Slc38a1,5,5,0,> B cells
+Slc7a5,5,2,3,> ES cells
+Smad7,5,2,3,> ES cells
+Snhg3,5,1,4,> B cells
+Snora73a,5,1,4,> B cells
+Snora73b,5,1,4,> B cells
+snoU54,5,2,3,> B cells
+Socs2,5,0,5,> ES cells
+Srgap2,5,2,3,> ES cells
+Srsf2,5,4,1,> B cells
+Srsf7,5,4,1,> B cells
+Ssbp3,5,0,5,> ES cells
+Tmem131,5,2,3,> B cells
+Tpst2,5,3,2,Same
+Trip12,5,0,5,> ES cells
+Trp53,5,0,5,> ES cells
+Ttc39d,5,4,1,> B cells
+Ube2d2,5,0,5,> ES cells
+Ubtf,5,1,4,> ES cells
+Wrap53,5,0,5,> ES cells
+Wsb1,5,2,3,> ES cells
+0610007P08Rik,4,4,0,> B cells
+1700028N14Rik,4,4,0,> B cells
+1700034H15Rik,4,0,4,> ES cells
+1700045H11Rik,4,1,3,> ES cells
+2010015M23Rik,4,1,3,> ES cells
+2310033E01Rik,4,2,2,Same
+2310044G17Rik,4,1,3,> ES cells
+2610002J02Rik,4,1,3,> ES cells
+2810408I11Rik,4,1,3,Same
+4930558J22Rik,4,0,4,> ES cells
+5830403L16Rik,4,2,2,> ES cells
+8430410A17Rik,4,2,2,Same
+A830031A19Rik,4,4,0,> B cells
+Actb,4,0,4,> ES cells
+Adam9,4,3,1,> ES cells
+Adamtsl4,4,0,4,> ES cells
+Adc,4,2,2,> ES cells
+Adm,4,4,0,#N/A
+Aff1,4,2,2,> ES cells
+Ahdc1,4,0,4,> ES cells
+Arid1a,4,2,2,> B cells
+Arl4c,4,3,1,> B cells
+B2m,4,3,1,> B cells
+B4galt1,4,4,0,Same
+BC106179,4,4,0,> B cells
+Bcl11a,4,4,0,> B cells
+Bend3,4,0,4,> ES cells
+Btg2,4,0,4,> ES cells
+Caprin2,4,1,3,> ES cells
+Cbx3,4,2,2,> ES cells
+Ccnyl1,4,1,3,Same
+Cdkn1a,4,0,4,> ES cells
+Chd2,4,2,2,Same
+Chrac1,4,4,0,> B cells
+Cish,4,4,0,> B cells
+Csnk1g2,4,4,0,> B cells
+Cxcr7,4,4,0,> B cells
+D330023K18Rik,4,0,4,> ES cells
+Derl1,4,4,0,> B cells
+Dnajb14,4,0,4,> ES cells
+Dtl,4,3,1,> B cells
+Dynll1,4,0,4,> ES cells
+Dyrk1a,4,3,1,> B cells
+Edem1,4,4,0,> B cells
+Eif2c2,4,4,0,> B cells
+Enoph1,4,1,3,> ES cells
+Errfi1,4,1,3,> ES cells
+Etnk1,4,0,4,> ES cells
+Ext1,4,2,2,> B cells
+Fam100b,4,4,0,> B cells
+Fam107b,4,4,0,> B cells
+Fam122a,4,3,1,> B cells
+Fasn,4,1,3,Same
+Foxp4,4,2,2,Same
+Frmd6,4,0,4,> ES cells
+Gapdh,4,0,4,> ES cells
+Glul,4,2,2,> ES cells
+Gm10382,4,3,1,> B cells
+Gm11508,4,1,3,> ES cells
+Gm12063,4,4,0,> B cells
+Gm12306,4,0,4,> ES cells
+Gm13830,4,0,4,> ES cells
+Gm13836,4,2,2,> ES cells
+Gm14164,4,0,4,> ES cells
+Gm14454,4,4,0,Same
+Gm16723,4,2,2,Same
+Gm17040,4,4,0,> B cells
+Gm17300,4,0,4,> ES cells
+Gm20390,4,0,4,> ES cells
+Gpr107,4,0,4,> ES cells
+Grcc10,4,1,3,> ES cells
+H2afz,4,0,4,> ES cells
+Hemk1,4,4,0,> B cells
+Hist1h1a,4,0,4,> ES cells
+Hist1h3a,4,0,4,> ES cells
+Hist1h4a,4,0,4,> ES cells
+Hist1h4b,4,0,4,> ES cells
+Hnrnpa2b1,4,2,2,> ES cells
+Hnrpdl,4,1,3,> ES cells
+Id1,4,0,4,> ES cells
+Id3,4,4,0,> B cells
+Ier5l,4,1,3,> ES cells
+Ints7,4,3,1,> B cells
+Itpr1,4,4,0,> B cells
+Jak1,4,4,0,> B cells
+Jdp2,4,2,2,> ES cells
+Jmjd1c,4,0,4,> ES cells
+Klf10,4,0,4,> ES cells
+Klf13,4,1,3,> ES cells
+Litaf,4,4,0,> B cells
+Ly75,4,1,3,> ES cells
+Map3k11,4,0,4,> ES cells
+Map3k14,4,4,0,> B cells
+Mettl11a,4,1,3,> ES cells
+Mllt10,4,0,4,> ES cells
+Nfkbia,4,4,0,> B cells
+Nfkbid,4,2,2,> ES cells
+Nme1,4,0,4,> ES cells
+Nup210,4,2,2,Same
+Pcnxl3,4,0,4,> ES cells
+Pcyox1l,4,0,4,> ES cells
+Phf15,4,1,3,> ES cells
+Pik3r2,4,0,4,> ES cells
+Plk3,4,2,2,Same
+Pmepa1,4,4,0,Same
+Ppp2r5c,4,0,4,> ES cells
+Pptc7,4,4,0,> B cells
+Psma6,4,3,1,Same
+Ptch1,4,4,0,> B cells
+Pycr2,4,2,2,Same
+Rab1,4,0,4,> ES cells
+Rassf3,4,2,2,> ES cells
+Reep3,4,0,4,> ES cells
+Rel,4,4,0,> B cells
+Rhoq,4,2,2,Same
+Rnf157,4,3,1,> B cells
+Rnf19b,4,3,1,> B cells
+Rpa2,4,0,4,> ES cells
+Rpl7l1,4,1,3,Same
+Scd2,4,1,3,> ES cells
+Sirt1,4,0,4,> ES cells
+Slc25a13,4,1,3,> ES cells
+Slc30a1,4,0,4,> ES cells
+Slc6a6,4,0,4,> ES cells
+Slc9a8,4,3,1,Same
+Smarcal1,4,1,3,Same
+Snord118,4,0,4,> ES cells
+Snx30,4,4,0,> B cells
+Sp2,4,0,4,> ES cells
+Sppl3,4,1,3,> B cells
+Srsf1,4,1,3,> ES cells
+Ssbp4,4,2,2,Same
+St6gal1,4,4,0,> B cells
+Tesk2,4,0,4,> ES cells
+Tfeb,4,1,3,> ES cells
+Tm2d2,4,3,1,> ES cells
+Tmem107,4,0,4,> ES cells
+Tmsb10,4,1,3,> ES cells
+Tnfaip3,4,4,0,> B cells
+Tra2b,4,0,4,> ES cells
+Trib3,4,0,4,> ES cells
+Trim24,4,1,3,> ES cells
+Trim8,4,1,3,> ES cells
+Ttc7b,4,1,3,Same
+Ttpal,4,4,0,> B cells
+Tuba1b,4,0,4,> ES cells
+U2af1,4,0,4,> ES cells
+Ubc,4,3,1,> B cells
+Ube2i,4,2,2,> ES cells
+Ube2l6,4,0,4,> ES cells
+Utrn,4,1,3,> ES cells
+Wasf2,4,2,2,Same
+Xrcc1,4,2,2,Same
+Zbtb7a,4,2,2,> B cells
+0610039K10Rik,3,3,0,> B cells
+1110034A24Rik,3,2,1,> ES cells
+1500012F01Rik,3,1,2,> ES cells
+1700001O22Rik,3,1,2,Same
+1700055D18Rik,3,2,1,> B cells
+1700086P04Rik,3,3,0,> B cells
+1810059C17Rik,3,0,3,> ES cells
+2010012P19Rik,3,0,3,> ES cells
+2310003C23Rik,3,0,3,> ES cells
+2310015A10Rik,3,3,0,> B cells
+2410003K15Rik,3,1,2,> ES cells
+2610019E17Rik,3,2,1,> B cells
+4831440E17Rik,3,0,3,> ES cells
+4930578M01Rik,3,0,3,#N/A
+5031425E22Rik,3,1,2,> B cells
+6030443J06Rik,3,0,3,> ES cells
+8430406I07Rik,3,3,0,> B cells
+9130401M01Rik,3,3,0,> B cells
+9330151L19Rik,3,2,1,> ES cells
+9530052E02Rik,3,1,2,Same
+A630055G03Rik,3,3,0,> B cells
+AC155932.2,3,0,3,> ES cells
+Acbd4,3,2,1,Same
+Acot8,3,3,0,> B cells
+Adrb2,3,3,0,> B cells
+Agap3,3,0,3,> ES cells
+Alpl,3,2,1,> B cells
+Apobec3,3,3,0,> B cells
+Arc,3,0,3,> ES cells
+Arhgap27,3,2,1,> B cells
+Arpc2,3,2,1,Same
+Arrdc2,3,1,2,> ES cells
+Atf4,3,2,1,> B cells
+Atp1a1,3,2,1,Same
+Atp2a2,3,0,3,> ES cells
+Atp5d,3,0,3,> ES cells
+Banp,3,2,1,Same
+Birc2,3,0,3,> ES cells
+Brd2,3,0,3,Same
+Btbd19,3,0,3,> ES cells
+Btf3l4,3,0,3,> ES cells
+C330006D17Rik,3,0,3,> ES cells
+Cabin1,3,2,1,Same
+Cables2,3,0,3,> ES cells
+Capn10,3,0,3,> ES cells
+Casp3,3,1,2,Same
+Cbwd1,3,3,0,> B cells
+Ccdc111,3,1,2,Same
+Cct4,3,3,0,> B cells
+Cd82,3,3,0,> B cells
+Cdkn2aipnl,3,0,3,> ES cells
+Cfl1,3,0,3,> ES cells
+Cirbp,3,0,3,> ES cells
+Cks2,3,1,2,> ES cells
+Clasp1,3,3,0,> B cells
+Cltc,3,1,2,> ES cells
+Cnnm2,3,0,3,> ES cells
+Coq5,3,0,3,#N/A
+Cox5a,3,0,3,> ES cells
+Cox6a1,3,0,3,#N/A
+Cpox,3,3,0,> B cells
+Crat,3,0,3,> ES cells
+Creg1,3,3,0,> B cells
+Csnk1a1,3,0,3,> B cells
+Cyb5r3,3,3,0,> B cells
+Cyc1,3,0,3,> ES cells
+Cyth1,3,3,0,> B cells
+Ddt,3,2,1,Same
+Dedd2,3,2,1,Same
+Dido1,3,0,3,> ES cells
+Dlgap5,3,0,3,Same
+Dnajb4,3,1,2,> ES cells
+Dos,3,0,3,> ES cells
+Dpp8,3,0,3,> ES cells
+Dusp5,3,2,1,> ES cells
+Dusp6,3,2,1,> B cells
+Dync1h1,3,0,3,> ES cells
+Dynll2,3,0,3,> ES cells
+E030042O20Rik,3,2,1,> ES cells
+E230016M11Rik,3,1,2,> ES cells
+Eef1a1,3,1,2,Same
+Eif4a1,3,1,2,Same
+Eif5,3,1,2,> ES cells
+Elk4,3,2,1,> B cells
+Etf1,3,0,3,> ES cells
+Ezh2,3,2,1,> B cells
+Fam117a,3,3,0,> B cells
+Fam133b,3,2,1,> B cells
+Fam136a,3,0,3,> ES cells
+Fam69a,3,3,0,> B cells
+Fau,3,1,2,> ES cells
+Fbxw7,3,3,0,> B cells
+Fchsd2,3,3,0,> B cells
+Foxh1,3,0,3,> ES cells
+Fubp1,3,1,2,> ES cells
+Gadd45a,3,1,2,> ES cells
+Gbas,3,0,3,> ES cells
+Gdf15,3,2,1,> ES cells
+Gm10472,3,0,3,> ES cells
+Gm10762,3,0,3,> ES cells
+Gm11335,3,0,3,> ES cells
+Gm11521,3,3,0,> B cells
+Gm11641,3,2,1,> B cells
+Gm13067,3,2,1,> ES cells
+Gm15728,3,0,3,> ES cells
+Gm15890,3,3,0,> B cells
+Gm16091,3,3,0,> B cells
+Gm17292,3,0,3,> ES cells
+Gm17444,3,0,3,> ES cells
+Gm2a,3,2,1,> ES cells
+Gm9949,3,3,0,> B cells
+Gmfg,3,0,3,> ES cells
+Gpr19,3,0,3,> ES cells
+Haus4,3,0,3,> ES cells
+Hectd3,3,0,3,> ES cells
+Herpud1,3,3,0,> B cells
+Hhex,3,3,0,> B cells
+Hist1h2af,3,0,3,> ES cells
+Hist1h3g,3,0,3,> ES cells
+Hist1h4h,3,0,3,> ES cells
+Hist2h4,3,1,2,Same
+Hspa5,3,1,2,> ES cells
+Hspa8,3,1,2,> ES cells
+Inpp5a,3,2,1,> B cells
+Ipmk,3,2,1,> B cells
+Iqcg,3,2,1,Same
+Iqgap1,3,3,0,> B cells
+Irs2,3,1,2,Same
+Jhdm1d,3,1,2,> ES cells
+Kcnk5,3,1,2,> ES cells
+Kctd12,3,3,0,> B cells
+Klf6,3,2,1,> B cells
+Klhdc9,3,0,3,> ES cells
+Lace1,3,0,3,> ES cells
+Larp1,3,1,2,Same
+Lifr,3,3,0,> B cells
+Llgl2,3,1,2,> ES cells
+Lrrc1,3,1,2,Same
+Map2k2,3,0,3,> ES cells
+Map3k3,3,1,2,> B cells
+Map4k4,3,1,2,Same
+Mapre2,3,2,1,Same
+March2,3,0,3,> ES cells
+Mcl1,3,1,2,> ES cells
+Mdm2,3,1,2,Same
+Mfsd3,3,0,3,> ES cells
+Mfsd5,3,0,3,> ES cells
+Mir5130,3,3,0,> B cells
+Mll3,3,0,3,> ES cells
+Mll5,3,1,2,> B cells
+Mrpl49,3,1,2,> ES cells
+Mus81,3,0,3,> ES cells
+Mybl2,3,0,3,Same
+Myo1c,3,3,0,> B cells
+Myst3,3,1,2,> ES cells
+Nfe2l2,3,2,1,> ES cells
+Nop2,3,1,2,> ES cells
+Nucks1,3,1,2,Same
+Orc5,3,0,3,> ES cells
+Pdcd4,3,3,0,> B cells
+Pfkp,3,2,1,> B cells
+Phc2,3,2,1,> ES cells
+Phf17,3,0,3,> ES cells
+Phf8,3,3,0,> B cells
+Pigt,3,2,1,> B cells
+Plcd3,3,2,1,Same
+Plekhg2,3,0,3,> ES cells
+Pmaip1,3,3,0,> B cells
+Pml,3,1,2,> ES cells
+Pole4,3,1,2,> ES cells
+Polr2a,3,0,3,> ES cells
+Por,3,1,2,> ES cells
+Pou2f1,3,0,3,> ES cells
+Ppfibp2,3,3,0,> B cells
+Ppp1r16a,3,0,3,> ES cells
+Ppp2r4,3,0,3,> ES cells
+Ppp4r2,3,3,0,> B cells
+Psip1,3,0,3,> ES cells
+Psmd5,3,2,1,Same
+Psme3,3,0,3,> ES cells
+Ptp4a2,3,3,0,> B cells
+Ptpn1,3,3,0,> B cells
+Ptpn6,3,0,3,> ES cells
+Ptrh2,3,3,0,> B cells
+Pttg1ip,3,0,3,> ES cells
+Pum1,3,0,3,> ES cells
+Rab21,3,1,2,> ES cells
+Rab26,3,2,1,> B cells
+Rab7,3,1,2,> ES cells
+Rab8a,3,3,0,> B cells
+Rap1b,3,3,0,> B cells
+Rasa3,3,3,0,Same
+Rfc5,3,0,3,> ES cells
+Rftn1,3,3,0,> B cells
+Rnd2,3,0,3,> ES cells
+Rnf10,3,0,3,> ES cells
+Rpl35a,3,2,1,Same
+Rpl8,3,0,3,> ES cells
+Rplp0,3,3,0,> B cells
+Rpp14,3,0,3,> ES cells
+Rps6ka5,3,2,1,> B cells
+Rps8,3,0,3,> ES cells
+Satb1,3,3,0,> B cells
+Senp3,3,0,3,> ES cells
+Sept10,3,3,0,> B cells
+Serinc3,3,3,0,> B cells
+Sfpq,3,2,1,Same
+Skp1a,3,1,2,> ES cells
+Slc17a9,3,0,3,> ES cells
+Slc25a12,3,1,2,> ES cells
+Slc43a2,3,3,0,> B cells
+Smad3,3,3,0,> B cells
+Smg7,3,0,3,> ES cells
+Snai1,3,2,1,> B cells
+SNORD12,3,1,2,> ES cells
+Snord12,3,1,2,> ES cells
+SNORD46,3,0,3,> ES cells
+Snord55,3,0,3,> ES cells
+SNORD60,3,2,1,> B cells
+Snrnp35,3,3,0,> B cells
+Snx5,3,3,0,> B cells
+Sowahc,3,3,0,> B cells
+Spcs2,3,3,0,> B cells
+Spen,3,0,3,#N/A
+Sssca1,3,0,3,> ES cells
+Strada,3,1,2,> B cells
+Tatdn2,3,1,2,> ES cells
+Tbrg4,3,0,3,> ES cells
+Tex14,3,3,0,> ES cells
+Tigd2,3,3,0,> B cells
+Timeless,3,0,3,> ES cells
+Tmem123,3,2,1,> B cells
+Tmem154,3,1,2,> ES cells
+Tnrc6a,3,0,3,> ES cells
+Tnrc6c,3,1,2,Same
+Top1,3,2,1,> B cells
+Traf7,3,2,1,> B cells
+Trerf1,3,2,1,Same
+Tspan14,3,3,0,> B cells
+Tuba1c,3,0,3,> ES cells
+Tubb6,3,0,3,> ES cells
+Txndc11,3,3,0,> B cells
+Txndc12,3,0,3,> ES cells
+U2af2,3,0,3,> ES cells
+Ube2s,3,0,3,> ES cells
+Urod,3,0,3,> ES cells
+Usp28,3,2,1,Same
+Vat1,3,0,3,> ES cells
+Vdac1,3,0,3,> ES cells
+Vmp1,3,3,0,> B cells
+Wdr82,3,1,2,> ES cells
+Xrcc5,3,0,3,> ES cells
+Xrra1,3,3,0,> B cells
+Zbtb5,3,2,1,> B cells
+Zc3h6,3,0,3,> ES cells
+Zdhhc5,3,0,3,> ES cells
+Zfp280b,3,2,1,> B cells
+Zfp526,3,2,1,Same
+Zfp646,3,0,3,Same
+Zfp655,3,0,3,> ES cells
+Zfp668,3,0,3,Same
+Zfr,3,1,2,Same
+Znfx1,3,1,2,> ES cells
+Znrf2,3,1,2,> ES cells
+Zpbp2,3,2,1,> B cells
+Zswim3,3,3,0,> B cells
+0610009L18Rik,2,0,2,> ES cells
+1110018N20Rik,2,0,2,> ES cells
+1600020E01Rik,2,0,2,> ES cells
+1700021K19Rik,2,0,2,> ES cells
+1700023H06Rik,2,1,1,Same
+1700040I03Rik,2,1,1,> ES cells
+1700049J03Rik,2,0,2,> ES cells
+1700081L11Rik,2,0,2,> ES cells
+1700084C06Rik,2,1,1,> ES cells
+1810032O08Rik,2,2,0,> B cells
+1810046J19Rik,2,2,0,> B cells
+1810062O18Rik,2,0,2,> ES cells
+2210417K05Rik,2,0,2,> ES cells
+2310004N24Rik,2,0,2,> ES cells
+2310039H08Rik,2,0,2,> ES cells
+2410075B13Rik,2,0,2,> ES cells
+2410127L17Rik,2,0,2,> ES cells
+2500002B13Rik,2,0,2,> ES cells
+2500004C02Rik,2,1,1,Same
+2610005L07Rik,2,1,1,Same
+2810422J05Rik,2,2,0,> B cells
+2810432D09Rik,2,0,2,> ES cells
+3010003L21Rik,2,0,2,> ES cells
+4930465K10Rik,2,0,2,> ES cells
+4930481B07Rik,2,1,1,Same
+4931440P22Rik,2,0,2,> ES cells
+5730422E09Rik,2,0,2,> ES cells
+6430571L13Rik,2,2,0,> B cells
+8030462N17Rik,2,0,2,> ES cells
+8430427H17Rik,2,1,1,> B cells
+9330020H09Rik,2,0,2,> ES cells
+A430035B10Rik,2,2,0,#N/A
+A430046D13Rik,2,0,2,> ES cells
+A930004D18Rik,2,0,2,> ES cells
+Abcg1,2,1,1,Same
+AC120136.2,2,0,2,> ES cells
+AC152453.1,2,1,1,Same
+AC166172.1,2,0,2,> ES cells
+Acadm,2,0,2,> ES cells
+Acly,2,0,2,> ES cells
+Acox1,2,0,2,> ES cells
+Acsl3,2,2,0,> B cells
+Actg1,2,0,2,> ES cells
+Actr2,2,0,2,Same
+Adap1,2,1,1,Same
+Adi1,2,0,2,> ES cells
+Adnp,2,0,2,> ES cells
+Agpat4,2,2,0,> B cells
+Agpat5,2,0,2,> ES cells
+Agtpbp1,2,0,2,> ES cells
+AI316807,2,2,0,> B cells
+AI480526,2,1,1,> ES cells
+Aim1l,2,0,2,> ES cells
+Alg5,2,1,1,Same
+Alyref2,2,0,2,> ES cells
+Amz2,2,0,2,> ES cells
+Ankle1,2,0,2,> ES cells
+Anln,2,0,2,> ES cells
+Anxa7,2,0,2,> ES cells
+Ap2a2,2,2,0,> B cells
+Arhgef3,2,2,0,> B cells
+Arid3a,2,1,1,> B cells
+Arid3b,2,2,0,> B cells
+Arid5a,2,2,0,> B cells
+Arrdc3,2,1,1,Same
+Asxl1,2,1,1,Same
+Atad2b,2,0,2,> ES cells
+Atf5,2,0,2,#N/A
+Atp11b,2,1,1,Same
+Atp8a1,2,1,1,Same
+Atpif1,2,0,2,#N/A
+Atxn1l,2,2,0,> B cells
+Atxn7l1,2,1,1,Same
+Atxn7l3,2,0,2,> ES cells
+Auh,2,2,0,> B cells
+Aup1,2,1,1,> B cells
+B330016D10Rik,2,1,1,> B cells
+B930036N10Rik,2,0,2,> ES cells
+Bach1,2,2,0,> B cells
+Bag6,2,0,2,> ES cells
+Baz1b,2,1,1,Same
+Baz2a,2,0,2,> ES cells
+BC016495,2,0,2,> ES cells
+BC030307,2,1,1,Same
+BC057079,2,2,0,> B cells
+Bcl7b,2,0,2,> ES cells
+Bcl7c,2,0,2,> ES cells
+Brd1,2,0,2,> ES cells
+C330007P06Rik,2,1,1,Same
+Calm3,2,0,2,> ES cells
+Cap1,2,1,1,> ES cells
+Cbl,2,1,1,Same
+Cblc,2,0,2,> ES cells
+Cbx8,2,1,1,> ES cells
+Ccdc134,2,2,0,#N/A
+Ccdc148,2,1,1,Same
+Ccdc18,2,1,1,> ES cells
+Ccdc45,2,0,2,#N/A
+Ccdc47,2,0,2,#N/A
+Ccdc76,2,1,1,Same
+Ccnb1,2,0,2,> ES cells
+Ccng2,2,1,1,> ES cells
+Ccnt1,2,0,2,> ES cells
+Cct6a,2,0,2,> ES cells
+Cct7,2,1,1,> ES cells
+Cd164,2,0,2,> ES cells
+Cdc34,2,0,2,> ES cells
+Cdca5,2,0,2,> ES cells
+Cdk16,2,1,1,Same
+Cdk17,2,0,2,> ES cells
+Cdt1,2,0,2,> ES cells
+Cep68,2,0,2,> ES cells
+Chka,2,0,2,> ES cells
+Chuk,2,2,0,> B cells
+Clip1,2,1,1,Same
+Clptm1,2,0,2,> ES cells
+Clpx,2,2,0,> B cells
+Cnot6l,2,2,0,> B cells
+Cnpy3,2,2,0,> B cells
+Commd5,2,0,2,> ES cells
+Cops7a,2,0,2,> ES cells
+Cox15,2,2,0,> B cells
+Cox7a2,2,1,1,Same
+Cpsf3l,2,0,2,> ES cells
+Creb3l2,2,0,2,> ES cells
+Crebbp,2,1,1,Same
+Crem,2,0,2,> ES cells
+Cript,2,2,0,> B cells
+Csk,2,1,1,> B cells
+Cstf3,2,0,2,> ES cells
+CT010444.1,2,2,0,> B cells
+Ctnnal1,2,1,1,Same
+Ctnnb1,2,1,1,> B cells
+Ctsa,2,2,0,Same
+Cuedc2,2,1,1,Same
+Cul4a,2,0,2,> ES cells
+Cutc,2,2,0,> B cells
+Cyb5b,2,0,2,> ES cells
+D10Wsu102e,2,2,0,> B cells
+D230017M19Rik,2,0,2,> ES cells
+D930015E06Rik,2,1,1,> ES cells
+Dctn3,2,0,2,> ES cells
+Ddx3x,2,1,1,> B cells
+Ddx42,2,0,2,#N/A
+Ddx5,2,0,2,#N/A
+Derl2,2,0,2,> ES cells
+Derl3,2,2,0,> B cells
+Dgkq,2,0,2,> ES cells
+Dhx57,2,2,0,> B cells
+Diablo,2,0,2,> ES cells
+Dmtf1,2,0,2,> ES cells
+Dnajb9,2,2,0,> B cells
+Dnajc4,2,0,2,> ES cells
+Dnajc8,2,0,2,#N/A
+Dstn,2,1,1,Same
+Dusp28,2,0,2,> ES cells
+Eef2,2,0,2,> ES cells
+Ehd2,2,0,2,> ES cells
+Eif2ak3,2,2,0,Same
+Eif2d,2,0,2,> ES cells
+Elk3,2,2,0,> B cells
+Elmo1,2,0,2,> ES cells
+Ergic1,2,0,2,> ES cells
+Ermp1,2,0,2,> ES cells
+Esyt1,2,0,2,> ES cells
+Etv3,2,2,0,> B cells
+Exosc8,2,1,1,Same
+F730043M19Rik,2,1,1,Same
+Fam38a,2,0,2,> ES cells
+Fam60a,2,0,2,> ES cells
+Fbxl5,2,2,0,Same
+Fbxo38,2,2,0,> B cells
+Fbxo47,2,0,2,> ES cells
+Fbxo6,2,0,2,> ES cells
+Fh1,2,2,0,> B cells
+Fkbp4,2,0,2,> ES cells
+Flnb,2,1,1,Same
+Fos,2,0,2,> ES cells
+Foxn3,2,2,0,> B cells
+Foxred2,2,0,2,> ES cells
+Fyttd1,2,0,2,> ES cells
+Fzd5,2,0,2,> ES cells
+Gclm,2,0,2,> ES cells
+Gga1,2,0,2,> ES cells
+Ggta1,2,2,0,> B cells
+Glcci1,2,2,0,#N/A
+Gltpd1,2,0,2,> ES cells
+Gm10069,2,0,2,> ES cells
+Gm10433,2,1,1,> ES cells
+Gm10501,2,0,2,> ES cells
+Gm10840,2,2,0,> B cells
+Gm11175,2,0,2,> ES cells
+Gm11458,2,0,2,> ES cells
+Gm11464,2,1,1,Same
+Gm11520,2,1,1,> ES cells
+Gm11542,2,0,2,> ES cells
+Gm11630,2,0,2,> ES cells
+Gm11696,2,2,0,> B cells
+Gm11870,2,2,0,> B cells
+Gm12352,2,2,0,> B cells
+Gm12396,2,1,1,> ES cells
+Gm12536,2,1,1,Same
+Gm12750,2,2,0,> B cells
+Gm12981,2,0,2,> ES cells
+Gm12999,2,0,2,#N/A
+Gm14302,2,2,0,> B cells
+Gm14320,2,1,1,> B cells
+Gm15327,2,1,1,Same
+Gm15396,2,0,2,> ES cells
+Gm15420,2,0,2,> ES cells
+Gm15477,2,1,1,Same
+Gm15556,2,2,0,> B cells
+Gm15747,2,0,2,> ES cells
+Gm16066,2,0,2,> ES cells
+Gm16493,2,2,0,> B cells
+Gm16719,2,0,2,> ES cells
+Gm16832,2,0,2,> ES cells
+Gm16956,2,2,0,> B cells
+Gm17321,2,0,2,> ES cells
+Gm17591,2,2,0,> B cells
+Gm17658,2,0,2,> ES cells
+Gm17715,2,0,2,> ES cells
+Gm20417,2,0,2,> ES cells
+Gm20431,2,1,1,> B cells
+Gm20458,2,2,0,> B cells
+Gm4890,2,1,1,Same
+Gm6225,2,0,2,> ES cells
+Gm962,2,1,1,Same
+Gm98,2,0,2,> ES cells
+Gm9870,2,1,1,Same
+Gm9925,2,0,2,> ES cells
+Gna13,2,2,0,> B cells
+Gnpda1,2,0,2,> ES cells
+Gpr108,2,1,1,Same
+Grb2,2,2,0,> B cells
+Gsk3a,2,0,2,> ES cells
+Gstt2,2,1,1,> ES cells
+H2afx,2,0,2,> ES cells
+H3f3b,2,1,1,> B cells
+Hcst,2,2,0,> B cells
+Hhat,2,1,1,Same
+Hibch,2,0,2,> ES cells
+Hint1,2,1,1,Same
+Hist1h1c,2,0,2,> ES cells
+Hist1h2ab,2,1,1,Same
+Hist1h2ac,2,0,2,> ES cells
+Hist1h2ad,2,0,2,> ES cells
+Hist1h2ae,2,0,2,> ES cells
+Hist1h2bc,2,0,2,> ES cells
+Hist1h2bf,2,0,2,> ES cells
+Hist1h2bg,2,0,2,> ES cells
+Hist1h3b,2,1,1,Same
+Hist1h3d,2,0,2,> ES cells
+Hist1h4c,2,1,1,Same
+Hist1h4d,2,0,2,> ES cells
+Hist1h4f,2,0,2,> ES cells
+Hist2h2aa2,2,1,1,> B cells
+Hist2h3c2,2,1,1,> B cells
+Hist4h4,2,1,1,Same
+Hk1,2,0,2,> ES cells
+Hmgb1,2,0,2,> ES cells
+Hnrnpab,2,1,1,> ES cells
+Hnrnpk,2,2,0,> B cells
+Hsp90aa1,2,0,2,> ES cells
+Hsp90b1,2,1,1,Same
+Hspa4,2,2,0,> B cells
+Hspd1,2,0,2,> ES cells
+Hspe1,2,0,2,> ES cells
+Htra2,2,1,1,> B cells
+Huwe1,2,2,0,> B cells
+Icam1,2,1,1,> ES cells
+Idua,2,0,2,> ES cells
+Ier5,2,2,0,> B cells
+Ifi30,2,0,2,> ES cells
+Il4i1,2,0,2,#N/A
+Ilf2,2,0,2,> ES cells
+Inca1,2,1,1,Same
+Ino80c,2,2,0,> B cells
+Insig1,2,0,2,> ES cells
+Isoc2a,2,0,2,> ES cells
+Isy1,2,0,2,> ES cells
+Jagn1,2,2,0,> B cells
+Jak2,2,2,0,> B cells
+Jund,2,0,2,> ES cells
+Kcnb1,2,0,2,> ES cells
+Kcnc3,2,0,2,> ES cells
+Kdm2b,2,0,2,> ES cells
+Kif1c,2,1,1,Same
+Kif2a,2,1,1,Same
+Kif2c,2,0,2,> B cells
+Klhdc2,2,2,0,#N/A
+Klhl17,2,0,2,> ES cells
+Klhl26,2,0,2,> ES cells
+Kpna2,2,0,2,> ES cells
+Lamc1,2,0,2,> ES cells
+Lamtor2,2,0,2,> ES cells
+Limd2,2,2,0,> B cells
+Lin7b,2,1,1,Same
+Lpcat3,2,2,0,> B cells
+Lrch1,2,1,1,Same
+Lrch4,2,0,2,> ES cells
+Lrrc27,2,0,2,> ES cells
+Lrsam1,2,0,2,> ES cells
+Lsm2,2,0,2,> ES cells
+Lsm4,2,1,1,> ES cells
+Ly96,2,1,1,Same
+Lypla1,2,0,2,> ES cells
+Mad2l2,2,0,2,> ES cells
+Malat1,2,0,2,> ES cells
+Man2a1,2,1,1,Same
+Map1lc3b,2,0,2,> ES cells
+Map2k1,2,1,1,Same
+Map3k1,2,1,1,Same
+Mapk4,2,0,2,> ES cells
+Mapkapk2,2,2,0,Same
+March6,2,2,0,> B cells
+Marcksl1,2,0,2,> ES cells
+Mat2a,2,0,2,> ES cells
+Mcm2,2,1,1,Same
+Mdh2,2,1,1,> ES cells
+Med21,2,0,2,> ES cells
+Med4,2,2,0,> B cells
+Mettl16,2,0,2,> ES cells
+Mfsd12,2,0,2,> ES cells
+Mfsd7b,2,0,2,> ES cells
+Mgat4a,2,2,0,Same
+Mgat4b,2,0,2,> ES cells
+Micu1,2,2,0,> B cells
+Minos1,2,1,1,Same
+Mir1931,2,0,2,> ES cells
+Mir5122,2,0,2,> ES cells
+Mir762,2,0,2,> ES cells
+Mis12,2,0,2,> ES cells
+Mlf2,2,0,2,> ES cells
+Mlxip,2,0,2,> ES cells
+Mmaa,2,1,1,Same
+Mob3b,2,2,0,> B cells
+Mob4,2,0,2,> ES cells
+Morn2,2,2,0,> B cells
+Mreg,2,1,1,> B cells
+Mrpl47,2,0,2,> ES cells
+Mtdh,2,1,1,> ES cells
+Mtf2,2,0,2,> ES cells
+Myl12a,2,0,2,> ES cells
+Myl12b,2,0,2,> ES cells
+Myl6b,2,0,2,> ES cells
+Myst2,2,1,1,> ES cells
+Naa16,2,1,1,Same
+Naa35,2,0,2,> ES cells
+Nat9,2,0,2,> ES cells
+Nbn,2,2,0,#N/A
+Ncoa3,2,1,1,Same
+Ndufb5,2,0,2,> ES cells
+Ndufb7,2,0,2,> ES cells
+Nedd4,2,0,2,> ES cells
+Neil1,2,2,0,> B cells
+Net1,2,2,0,> B cells
+Neurl2,2,2,0,Same
+Nfkb1,2,2,0,> B cells
+Nhp2,2,0,2,> ES cells
+Nin,2,2,0,> B cells
+Nipbl,2,2,0,Same
+Nrbf2,2,1,1,Same
+Nudt4,2,0,2,> ES cells
+Nufip2,2,0,2,> ES cells
+Nup62,2,0,2,#N/A
+Obfc2b,2,2,0,> B cells
+Odc1,2,1,1,> ES cells
+Ola1,2,0,2,> ES cells
+Osgin2,2,2,0,> B cells
+Ostf1,2,0,2,> ES cells
+Parp16,2,0,2,> ES cells
+Pcbp1,2,0,2,> ES cells
+Pcf11,2,2,0,> B cells
+Pcid2,2,0,2,> ES cells
+Pcyox1,2,0,2,#N/A
+Pdhb,2,0,2,> ES cells
+Peli1,2,2,0,> B cells
+Per1,2,0,2,> B cells
+Pi4kb,2,1,1,Same
+Pigf,2,2,0,> B cells
+Pitpnc1,2,0,2,> ES cells
+Pkig,2,2,0,> B cells
+Pkm2,2,0,2,> ES cells
+Pknox1,2,0,2,> ES cells
+Pkp4,2,1,1,Same
+Plbd1,2,1,1,Same
+Plcg1,2,2,0,Same
+Plec,2,1,1,Same
+Plekho1,2,1,1,Same
+Pnpla8,2,2,0,> B cells
+Pola2,2,1,1,> B cells
+Pole2,2,2,0,#N/A
+Poli,2,2,0,> B cells
+Ppap2a,2,0,2,> ES cells
+Ppcdc,2,2,0,Same
+Ppp1r12a,2,2,0,> B cells
+Ppp1r8,2,2,0,> B cells
+Ppp3cb,2,0,2,> ES cells
+Pppde2,2,2,0,> ES cells
+Prdx5,2,0,2,> ES cells
+Prkcd,2,2,0,Same
+Prr5,2,2,0,> B cells
+Psph,2,0,2,> ES cells
+Ptges3,2,0,2,> ES cells
+Ptgr2,2,1,1,Same
+Ptp4a3,2,2,0,> ES cells
+Ptpn23,2,2,0,> B cells
+Ptpn3,2,1,1,Same
+Pvrl2,2,0,2,> ES cells
+Qpctl,2,0,2,> ES cells
+Rab37,2,2,0,> B cells
+Rab5b,2,0,2,> ES cells
+Rab8b,2,2,0,> B cells
+Rap1a,2,2,0,> B cells
+Rara,2,0,2,> ES cells
+Rasal1,2,0,2,> ES cells
+Raver1,2,1,1,> ES cells
+Rbck1,2,0,2,> ES cells
+Rbl1,2,0,2,> ES cells
+Rbm17,2,2,0,> B cells
+Rbm33,2,0,2,> ES cells
+Rheb,2,2,0,> B cells
+Rhof,2,1,1,> ES cells
+Rmi1,2,2,0,> B cells
+Rnf168,2,2,0,> B cells
+Rnf220,2,1,1,Same
+Rnf41,2,2,0,> B cells
+RP24-201C14.5,2,1,1,> B cells
+Rpl12,2,0,2,> ES cells
+Rpl13,2,1,1,Same
+Rpl13a,2,1,1,Same
+Rpl18,2,1,1,Same
+Rpl19,2,0,2,> ES cells
+Rpl23,2,1,1,> ES cells
+Rpl24,2,1,1,> ES cells
+Rpl27,2,0,2,> ES cells
+Rpl3,2,1,1,Same
+Rps10,2,0,2,> ES cells
+Rps12,2,2,0,> B cells
+Rps5,2,1,1,Same
+Rps6ka2,2,1,1,> ES cells
+Rps7,2,0,2,> ES cells
+Rras2,2,1,1,Same
+Rrn3,2,0,2,> ES cells
+Rsbn1l,2,2,0,> B cells
+Rtn4,2,1,1,> ES cells
+Sap25,2,0,2,> ES cells
+Sap30,2,0,2,> ES cells
+Sass6,2,1,1,Same
+Scaf4,2,1,1,Same
+Scamp2,2,2,0,> B cells
+Sccpdh,2,0,2,> ES cells
+Sec24a,2,0,2,> B cells
+Sec24c,2,0,2,> ES cells
+Sept11,2,1,1,Same
+Sept7,2,2,0,> B cells
+Sept9,2,2,0,> B cells
+Serbp1,2,0,2,> ES cells
+Sesn2,2,0,2,> ES cells
+Sesn3,2,2,0,Same
+Setd1b,2,1,1,> ES cells
+Setd8,2,2,0,> B cells
+Sf3b1,2,1,1,Same
+Sgpl1,2,2,0,> B cells
+Sh3pxd2a,2,0,2,> ES cells
+Sipa1,2,1,1,Same
+Sipa1l1,2,2,0,Same
+Slain2,2,1,1,Same
+Slc20a2,2,2,0,> B cells
+Slc25a28,2,0,2,> ES cells
+Slc39a10,2,1,1,Same
+Slc4a3,2,0,2,> ES cells
+Slc9a1,2,0,2,> ES cells
+Slmap,2,1,1,Same
+Smurf2,2,0,2,#N/A
+Snf8,2,0,2,> ES cells
+Snn,2,2,0,> B cells
+snoR38,2,2,0,> B cells
+Snora21,2,1,1,> ES cells
+Snora33,2,2,0,> B cells
+SNORA42,2,1,1,> ES cells
+Snora65,2,0,2,> ES cells
+Snord100,2,2,0,> B cells
+SNORD101,2,2,0,> B cells
+Snord13,2,1,1,> ES cells
+Snord1c,2,2,0,> B cells
+Snord32a,2,1,1,Same
+Snord68,2,1,1,Same
+Snrnp70,2,0,2,> ES cells
+Snrpd2,2,0,2,> ES cells
+Snx11,2,2,0,> B cells
+Spg7,2,1,1,> ES cells
+Sphk2,2,1,1,Same
+Spin1,2,1,1,Same
+Spink10,2,2,0,> B cells
+Sqstm1,2,0,2,> ES cells
+Srpk2,2,0,2,#N/A
+Srrm1,2,0,2,> ES cells
+Stac3,2,0,2,Same
+Stk11,2,0,2,> ES cells
+Stk24,2,2,0,> B cells
+Strn,2,0,2,> ES cells
+Styxl1,2,1,1,> ES cells
+Sumo1,2,0,2,> ES cells
+Supt5h,2,0,2,> ES cells
+Sys1,2,2,0,> B cells
+Syvn1,2,0,2,> ES cells
+Tab2,2,2,0,> B cells
+Tagln2,2,0,2,> ES cells
+Tbc1d10a,2,2,0,> B cells
+Tbc1d14,2,1,1,> B cells
+Tbl1x,2,0,2,> ES cells
+Tgfb1,2,1,1,Same
+Thap2,2,1,1,Same
+Tigd3,2,0,2,> ES cells
+Tiparp,2,0,2,> ES cells
+Tle4,2,1,1,Same
+Tm7sf3,2,0,2,> ES cells
+Tmed5,2,1,1,> ES cells
+Tmem104,2,0,2,> ES cells
+Tmem151a,2,1,1,Same
+Tmem189,2,1,1,> B cells
+Tmem19,2,1,1,Same
+Tnfaip8,2,2,0,Same
+Tnp2,2,2,0,> B cells
+Tnpo1,2,0,2,> ES cells
+Tonsl,2,0,2,> ES cells
+Tor2a,2,0,2,> ES cells
+Tpm4,2,2,0,> B cells
+Tprn,2,0,2,> ES cells
+Tpst1,2,2,0,> B cells
+Trim25,2,0,2,> ES cells
+Trip10,2,1,1,Same
+Trmt112,2,0,2,> ES cells
+Tsga10,2,0,2,> ES cells
+Tspyl1,2,0,2,> ES cells
+Tspyl4,2,0,2,> ES cells
+Ttc39a,2,2,0,> B cells
+Tti2,2,1,1,> ES cells
+Twsg1,2,2,0,Same
+Ube2a,2,1,1,Same
+Ube2n,2,1,1,Same
+Ube2z,2,0,2,> ES cells
+Ubqln4,2,0,2,> ES cells
+Uchl1,2,0,2,> ES cells
+Ulk1,2,0,2,> ES cells
+Usf1,2,0,2,> ES cells
+Usp36,2,1,1,Same
+Usp6nl,2,2,0,> B cells
+Uspl1,2,0,2,> ES cells
+Utp14b,2,2,0,> B cells
+Vapa,2,0,2,> ES cells
+Vegfa,2,0,2,> ES cells
+Wbp7,2,0,2,> ES cells
+Wdr5,2,0,2,> ES cells
+Xrcc6,2,2,0,> ES cells
+Xylt2,2,0,2,> ES cells
+Yif1b,2,0,2,> ES cells
+Zbed4,2,0,2,> ES cells
+Zbtb2,2,0,2,> ES cells
+Zcchc11,2,0,2,> ES cells
+Zfand5,2,2,0,Same
+Zfc3h1,2,1,1,Same
+Zfp213,2,1,1,Same
+Zfp217,2,0,2,> ES cells
+Zfp335,2,0,2,> ES cells
+Zfp397,2,2,0,> B cells
+Zfp687,2,1,1,Same
+Zfp710,2,1,1,> B cells
+Zfpl1,2,0,2,> ES cells
+Zfx,2,0,2,> ES cells
+Zzz3,2,1,1,> ES cells
+0610007C21Rik,1,0,1,> ES cells
+0610009B22Rik,1,0,1,> ES cells
+0610009D07Rik,1,0,1,> ES cells
+0610012G03Rik,1,1,0,> B cells
+0610038P03Rik,1,0,1,> ES cells
+1110054M08Rik,1,1,0,> B cells
+1200014J11Rik,1,1,0,> B cells
+1600027N09Rik,1,0,1,> ES cells
+1700007K13Rik,1,0,1,> ES cells
+1700011J10Rik,1,1,0,> B cells
+1700012B15Rik,1,1,0,> B cells
+1700021F05Rik,1,0,1,> ES cells
+1700022K14Rik,1,0,1,#N/A
+1700025E21Rik,1,0,1,> ES cells
+1700034F02Rik,1,1,0,> B cells
+1700034P13Rik,1,0,1,> ES cells
+1700052N19Rik,1,0,1,> ES cells
+1700123M08Rik,1,1,0,> B cells
+1700123O20Rik,1,0,1,Same
+1810006K21Rik,1,0,1,> ES cells
+1810013D15Rik,1,0,1,> ES cells
+1810013L24Rik,1,0,1,> ES cells
+1810019N24Rik,1,0,1,#N/A
+1810022K09Rik,1,0,1,> ES cells
+2210403K04Rik,1,1,0,> B cells
+2310010J17Rik,1,1,0,> B cells
+2310022A10Rik,1,0,1,> ES cells
+2310037I24Rik,1,0,1,> ES cells
+2410006H16Rik,1,0,1,#N/A
+2410042D21Rik,1,1,0,> B cells
+2510012J08Rik,1,1,0,> B cells
+2610524H06Rik,1,1,0,> B cells
+2810428I15Rik,1,0,1,> ES cells
+2900060B14Rik,1,0,1,> ES cells
+2900089D17Rik,1,0,1,> ES cells
+3110045C21Rik,1,0,1,> ES cells
+4632411B12Rik,1,1,0,#N/A
+4632427E13Rik,1,1,0,> B cells
+4731419I09Rik,1,0,1,> ES cells
+4831426I19Rik,1,1,0,> B cells
+4833407H14Rik,1,1,0,Same
+4833417C18Rik,1,1,0,> B cells
+4833418N02Rik,1,0,1,> ES cells
+4921531C22Rik,1,0,1,> ES cells
+4930420K17Rik,1,1,0,#N/A
+4930455C21Rik,1,1,0,#N/A
+4930473A02Rik,1,0,1,> ES cells
+4930509E16Rik,1,1,0,> B cells
+4930513N10Rik,1,0,1,> ES cells
+4930520K10Rik,1,0,1,> ES cells
+4930570N19Rik,1,1,0,> B cells
+4931440J10Rik,1,0,1,> ES cells
+4933406P04Rik,1,0,1,> ES cells
+4933424B01Rik,1,1,0,> B cells
+4933432B09Rik,1,0,1,> ES cells
+5133401N09Rik,1,1,0,> B cells
+5330438D12Rik,1,1,0,> B cells
+5830415F09Rik,1,1,0,> B cells
+6230427J02Rik,1,1,0,Same
+6330408A02Rik,1,0,1,> ES cells
+6330418K02Rik,1,0,1,> ES cells
+6820431F20Rik,1,0,1,> ES cells
+9330104G04Rik,1,0,1,> ES cells
+9430008C03Rik,1,0,1,> ES cells
+9430038I01Rik,1,0,1,> ES cells
+A930035D04Rik,1,1,0,> B cells
+AA386476,1,0,1,Same
+AA474408,1,0,1,> ES cells
+Aacs,1,1,0,> B cells
+Aamp,1,0,1,> ES cells
+Aarsd1,1,0,1,> ES cells
+Abcb1b,1,1,0,> B cells
+Abcc10,1,0,1,> ES cells
+Abcf1,1,0,1,> ES cells
+Abcf3,1,0,1,> ES cells
+Abhd12,1,1,0,> B cells
+Abt1,1,0,1,> ES cells
+Abtb1,1,1,0,> B cells
+AC090489.1,1,1,0,> B cells
+AC109196.1,1,1,0,> B cells
+AC166290.1,1,0,1,> ES cells
+AC188461.4,1,0,1,> ES cells
+Acin1,1,0,1,Same
+Acot9,1,1,0,> B cells
+Acss2,1,0,1,> ES cells
+Actn3,1,0,1,> ES cells
+Actr5,1,0,1,> ES cells
+Acy1,1,0,1,> ES cells
+Adam15,1,0,1,> ES cells
+Adam19,1,0,1,#N/A
+Add3,1,1,0,> ES cells
+Adipor1,1,0,1,> ES cells
+Ado,1,0,1,> ES cells
+Adrm1,1,0,1,#N/A
+Adss,1,0,1,> ES cells
+Afg3l1,1,0,1,> ES cells
+Agbl5,1,1,0,> ES cells
+Agpat1,1,0,1,> ES cells
+Ahcyl2,1,1,0,> B cells
+Ahi1,1,0,1,> ES cells
+AI314976,1,0,1,Same
+Aim1,1,0,1,> ES cells
+AK010878,1,1,0,> B cells
+Akap8l,1,0,1,#N/A
+Akt1,1,1,0,> B cells
+Akt2,1,0,1,> ES cells
+Aktip,1,0,1,Same
+AL732525.2,1,0,1,> ES cells
+AL833804.1,1,0,1,> ES cells
+Aldh16a1,1,0,1,> ES cells
+Alg3,1,0,1,> ES cells
+Alkbh3,1,0,1,> ES cells
+Amd1,1,1,0,> B cells
+Anapc13,1,0,1,> B cells
+Anapc2,1,0,1,> ES cells
+Angel2,1,0,1,> ES cells
+Angptl4,1,0,1,> ES cells
+Ankrd10,1,0,1,> ES cells
+Ankrd11,1,1,0,> B cells
+Ankrd12,1,0,1,> ES cells
+Ankrd13d,1,1,0,Same
+Ankrd52,1,1,0,> B cells
+Anp32b,1,0,1,> ES cells
+Ap2a1,1,0,1,#N/A
+Apex1,1,0,1,Same
+Aplp2,1,0,1,> ES cells
+Appbp2,1,0,1,> ES cells
+Arf3,1,0,1,> ES cells
+Arf4,1,1,0,> B cells
+Arhgap17,1,1,0,> B cells
+Arhgap26,1,0,1,> ES cells
+Arid1b,1,0,1,> ES cells
+Arid4b,1,1,0,> B cells
+Arl3,1,0,1,> ES cells
+Arl4d,1,0,1,> ES cells
+Arpc4,1,0,1,> ES cells
+Arpc5l,1,0,1,> ES cells
+Arrdc1,1,0,1,> ES cells
+Asf1a,1,0,1,> ES cells
+Ass1,1,0,1,> ES cells
+Ate1,1,0,1,> ES cells
+Atf2,1,0,1,> ES cells
+Atg16l2,1,1,0,> B cells
+Atm,1,0,1,> ES cells
+Atp10d,1,1,0,> B cells
+Atp2b1,1,1,0,> B cells
+Atp5e,1,1,0,> B cells
+Atp5sl,1,0,1,> ES cells
+Atp6v0a2,1,1,0,> B cells
+Atp6v0d1,1,0,1,> ES cells
+Atp6v1g2,1,0,1,> ES cells
+Atp8b3,1,0,1,> ES cells
+Atxn2l,1,0,1,#N/A
+Atxn7l2,1,0,1,#N/A
+Avl9,1,1,0,> B cells
+AW549877,1,1,0,> B cells
+Axin1,1,0,1,> ES cells
+B130055M24Rik,1,0,1,> ES cells
+B230317F23Rik,1,0,1,> ES cells
+B3gnt1,1,0,1,> ES cells
+Bag1,1,1,0,> B cells
+Baiap2,1,1,0,Same
+Bap1,1,1,0,> B cells
+Baz2b,1,1,0,> B cells
+BC005537,1,1,0,> B cells
+BC031353,1,1,0,> B cells
+BC037032,1,0,1,> ES cells
+BC037034,1,0,1,> ES cells
+BC049715,1,1,0,> B cells
+BC056474,1,1,0,> B cells
+Bcap29,1,1,0,> B cells
+Bccip,1,0,1,> ES cells
+Bckdk,1,1,0,> B cells
+Bcl3,1,0,1,Same
+Bcl7a,1,1,0,#N/A
+Bclaf1,1,0,1,> ES cells
+Birc3,1,0,1,> ES cells
+Bod1,1,0,1,> ES cells
+Bok,1,0,1,> ES cells
+Bola2,1,0,1,> ES cells
+Bola3,1,1,0,> B cells
+Bop1,1,0,1,> ES cells
+Bre,1,1,0,> B cells
+Bri3,1,0,1,> ES cells
+Bri3bp,1,0,1,#N/A
+Brms1,1,0,1,> ES cells
+Bsg,1,0,1,> ES cells
+Btbd2,1,0,1,> ES cells
+C230035I16Rik,1,0,1,> ES cells
+C2cd2l,1,0,1,> ES cells
+C330013E15Rik,1,1,0,> B cells
+C730034F03Rik,1,1,0,> B cells
+Cacna1a,1,0,1,#N/A
+Camta2,1,1,0,> B cells
+Capza1,1,0,1,> ES cells
+Capzb,1,1,0,> ES cells
+Carhsp1,1,0,1,> ES cells
+Casp2,1,1,0,> B cells
+Cbln3,1,0,1,> ES cells
+Cbx7,1,0,1,#N/A
+Cby1,1,0,1,> ES cells
+Ccdc114,1,0,1,> ES cells
+Ccdc117,1,0,1,> ES cells
+Ccdc126,1,0,1,> ES cells
+Ccdc127,1,0,1,> ES cells
+Ccdc77,1,0,1,> ES cells
+Ccdc88c,1,0,1,> ES cells
+Ccdc9,1,1,0,> B cells
+Ccdc97,1,1,0,> B cells
+Ccm2,1,1,0,> B cells
+Ccne1,1,0,1,> ES cells
+Cd2bp2,1,0,1,> ES cells
+Cdc14a,1,1,0,> B cells
+Cdc42,1,1,0,> B cells
+Cdh23,1,1,0,#N/A
+Cdhr4,1,1,0,> B cells
+Cdk19,1,0,1,> ES cells
+Cdk2ap2,1,0,1,Same
+Cdkn2aip,1,0,1,Same
+Cdon,1,1,0,> B cells
+Cdv3,1,0,1,> ES cells
+Cenpv,1,0,1,> ES cells
+Cep120,1,1,0,> B cells
+Cep63,1,0,1,> B cells
+Cggbp1,1,0,1,Same
+Chchd10,1,0,1,> ES cells
+Chkb,1,1,0,> B cells
+Chmp5,1,1,0,> B cells
+Chpf2,1,0,1,> ES cells
+Chrnb1,1,0,1,> ES cells
+Chst3,1,1,0,> B cells
+Cib1,1,0,1,> ES cells
+Cisd1,1,0,1,> ES cells
+Ckap2l,1,0,1,Same
+Ckap4,1,1,0,#N/A
+Clasp2,1,0,1,> ES cells
+Clcn3,1,0,1,> ES cells
+Cldn5,1,0,1,> ES cells
+Clk1,1,0,1,> ES cells
+Cln5,1,1,0,Same
+Cln6,1,1,0,> B cells
+Clp1,1,0,1,> ES cells
+Cmtm7,1,0,1,> ES cells
+Cnot1,1,0,1,> ES cells
+Cnot2,1,1,0,> B cells
+Coasy,1,0,1,> ES cells
+Cog4,1,0,1,> ES cells
+Copa,1,0,1,> ES cells
+Coro1a,1,0,1,#N/A
+Coro1b,1,1,0,> B cells
+Cox17,1,0,1,Same
+Cox6b2,1,0,1,> ES cells
+Cpne1,1,0,1,> ES cells
+Cpsf6,1,0,1,> ES cells
+Creb1,1,0,1,> ES cells
+Cs,1,1,0,> B cells
+Csde1,1,1,0,> B cells
+Ctage5,1,0,1,> ES cells
+Cth,1,0,1,> ES cells
+Ctsl,1,0,1,> ES cells
+Cul1,1,1,0,> B cells
+Cyb5d2,1,1,0,> B cells
+D030028A08Rik,1,0,1,Same
+D330012F22Rik,1,0,1,> ES cells
+D4Wsu53e,1,1,0,#N/A
+D630032N06Rik,1,0,1,> ES cells
+Dact3,1,0,1,> ES cells
+Dak,1,0,1,Same
+Dapp1,1,0,1,> ES cells
+Dazap2,1,1,0,> B cells
+Dbnl,1,0,1,> ES cells
+Dcaf12,1,0,1,> ES cells
+Dcp2,1,0,1,#N/A
+Dctn2,1,0,1,Same
+Ddb1,1,0,1,Same
+Ddi2,1,0,1,> ES cells
+Ddx20,1,1,0,#N/A
+Ddx39,1,0,1,> ES cells
+Ddx50,1,0,1,> ES cells
+Degs1,1,0,1,> ES cells
+Dennd4b,1,0,1,> ES cells
+Dennd5a,1,0,1,> B cells
+Denr,1,0,1,> ES cells
+Dguok,1,1,0,> B cells
+Dhrs4,1,0,1,> ES cells
+Dhrs7b,1,0,1,> ES cells
+Dhx9,1,1,0,#N/A
+Diap1,1,1,0,> B cells
+Dimt1,1,1,0,> B cells
+Dmxl1,1,0,1,Same
+Dnaja2,1,0,1,> ES cells
+Dnaja3,1,1,0,> B cells
+Dnajb2,1,0,1,> ES cells
+Dnajc14,1,0,1,> ES cells
+Dnajc3,1,1,0,> B cells
+Dnase1l1,1,0,1,> ES cells
+Dnmt1,1,0,1,> ES cells
+Dnpep,1,0,1,#N/A
+Dpm1,1,0,1,> ES cells
+Drg1,1,0,1,> ES cells
+Dtwd2,1,0,1,Same
+Dtx2,1,0,1,> ES cells
+Dusp11,1,0,1,> ES cells
+Dusp16,1,0,1,> ES cells
+Dym,1,0,1,> ES cells
+E130309D02Rik,1,1,0,> B cells
+E130317F20Rik,1,1,0,> B cells
+E2f3,1,1,0,Same
+E530011L22Rik,1,1,0,> B cells
+Eaf1,1,0,1,> ES cells
+Eapp,1,0,1,> ES cells
+Ece2,1,0,1,> ES cells
+Edf1,1,1,0,> B cells
+Eed,1,1,0,#N/A
+Efna4,1,0,1,> ES cells
+Ehd1,1,0,1,> ES cells
+Eif1b,1,1,0,Same
+Eif2ak1,1,1,0,> B cells
+Eif2c1,1,0,1,> ES cells
+Eif2s3x,1,0,1,> ES cells
+Eif3k,1,1,0,> B cells
+Eif4a2,1,1,0,> B cells
+Eif4g2,1,1,0,> B cells
+Eif5b,1,0,1,> ES cells
+Elf2,1,0,1,> ES cells
+Ell3,1,1,0,> B cells
+Eme2,1,0,1,> ES cells
+Eno1,1,0,1,Same
+Eno3,1,0,1,Same
+Ephb3,1,0,1,> ES cells
+Erf,1,0,1,> ES cells
+Etohd2,1,0,1,> ES cells
+Fahd1,1,0,1,> ES cells
+Fam102a,1,0,1,> ES cells
+Fam116b,1,0,1,> ES cells
+Fam129a,1,0,1,> ES cells
+Fam134c,1,0,1,> ES cells
+Fam195b,1,0,1,> ES cells
+Fam203a,1,0,1,> ES cells
+Fam3c,1,1,0,> B cells
+Fam49b,1,1,0,> B cells
+Fam53a,1,1,0,> B cells
+Fam53b,1,1,0,> B cells
+Fam63a,1,0,1,> ES cells
+Fam83d,1,1,0,Same
+Fam83e,1,0,1,> ES cells
+Fam86,1,0,1,> ES cells
+Fastkd5,1,0,1,> ES cells
+Fbxl15,1,0,1,> ES cells
+Fbxl18,1,0,1,> ES cells
+Fbxo33,1,0,1,> ES cells
+Fdxr,1,0,1,> ES cells
+Fen1,1,0,1,> ES cells
+Fgfr1op2,1,1,0,> B cells
+Filip1l,1,1,0,> B cells
+Fiz1,1,0,1,> ES cells
+Fkbp1a,1,1,0,Same
+Fkbp2,1,0,1,> ES cells
+Fkbp5,1,1,0,> B cells
+Fkbp8,1,1,0,> B cells
+Fkrp,1,1,0,> B cells
+Flcn,1,0,1,> ES cells
+Flii,1,0,1,> ES cells
+Foxo1,1,1,0,> ES cells
+Frmd8,1,1,0,> B cells
+Fstl3,1,0,1,> ES cells
+Fuca1,1,1,0,> B cells
+Fxr2,1,0,1,> ES cells
+G3bp1,1,0,1,> ES cells
+G3bp2,1,0,1,> ES cells
+G6pc3,1,1,0,> B cells
+Gabbr1,1,0,1,Same
+Gabpb2,1,0,1,> ES cells
+Gale,1,0,1,> ES cells
+Galnt1,1,0,1,> ES cells
+Gar1,1,1,0,> B cells
+Gclc,1,1,0,> B cells
+Gcsh,1,0,1,> ES cells
+Ggn,1,0,1,Same
+Ggps1,1,1,0,> B cells
+Ggt7,1,0,1,> ES cells
+Gins1,1,1,0,> B cells
+Gins4,1,0,1,> ES cells
+Git1,1,0,1,#N/A
+Gk5,1,0,1,> ES cells
+Gls,1,1,0,#N/A
+Gm10125,1,1,0,Same
+Gm10138,1,1,0,> B cells
+Gm10691,1,0,1,> ES cells
+Gm10812,1,0,1,> ES cells
+Gm10822,1,0,1,> ES cells
+Gm11336,1,0,1,Same
+Gm11527,1,1,0,> B cells
+Gm11724,1,1,0,> B cells
+Gm11767,1,1,0,Same
+Gm11769,1,0,1,> ES cells
+Gm12166,1,0,1,#N/A
+Gm12207,1,1,0,> B cells
+Gm12308,1,0,1,> ES cells
+Gm12309,1,0,1,> ES cells
+Gm12319,1,0,1,Same
+Gm12758,1,1,0,> B cells
+Gm12762,1,1,0,> B cells
+Gm13014,1,0,1,> ES cells
+Gm1337,1,0,1,#N/A
+Gm13778,1,0,1,> ES cells
+Gm14022,1,0,1,> ES cells
+Gm14023,1,0,1,Same
+Gm14167,1,1,0,Same
+Gm14256,1,0,1,> ES cells
+Gm14963,1,0,1,> ES cells
+Gm14966,1,1,0,> B cells
+Gm15334,1,0,1,> ES cells
+Gm15417,1,0,1,> ES cells
+Gm15441,1,0,1,> ES cells
+Gm15541,1,0,1,> ES cells
+Gm15612,1,1,0,> B cells
+Gm15651,1,0,1,> ES cells
+Gm15706,1,0,1,> ES cells
+Gm15860,1,1,0,#N/A
+Gm15885,1,0,1,> ES cells
+Gm15892,1,1,0,Same
+Gm15983,1,0,1,> ES cells
+Gm16062,1,0,1,> ES cells
+Gm16067,1,0,1,> ES cells
+Gm16174,1,0,1,Same
+Gm16283,1,0,1,Same
+Gm16286,1,0,1,> ES cells
+Gm16306,1,0,1,> ES cells
+Gm16621,1,0,1,Same
+Gm16740,1,0,1,> ES cells
+Gm16794,1,0,1,> ES cells
+Gm17056,1,1,0,> B cells
+Gm17343,1,0,1,> ES cells
+Gm17494,1,1,0,> B cells
+Gm17713,1,1,0,> B cells
+Gm20402,1,1,0,> ES cells
+Gm20421,1,0,1,> ES cells
+Gm20490,1,1,0,> B cells
+Gm20499,1,1,0,> B cells
+Gm20603,1,0,1,Same
+Gm2093,1,1,0,> B cells
+Gm216,1,0,1,Same
+Gm2885,1,1,0,#N/A
+Gm3828,1,1,0,> B cells
+Gm4419,1,0,1,> ES cells
+Gm5106,1,1,0,> B cells
+Gm5533,1,0,1,> ES cells
+Gm5617,1,1,0,> B cells
+Gm6415,1,0,1,Same
+Gm8098,1,0,1,> ES cells
+Gm867,1,0,1,> ES cells
+Gm889,1,1,0,> B cells
+Gm9850,1,1,0,#N/A
+Gm9888,1,0,1,> ES cells
+Gm9903,1,1,0,> B cells
+Gm9922,1,1,0,> B cells
+Gmcl1,1,0,1,> ES cells
+Gmeb2,1,1,0,> B cells
+Gmppb,1,1,0,> B cells
+Gnb1,1,1,0,> B cells
+Gnb2l1,1,0,1,Same
+Gnl1,1,1,0,#N/A
+Gns,1,1,0,> B cells
+Golph3,1,0,1,> ES cells
+Got1,1,0,1,> ES cells
+Gpbp1,1,0,1,> ES cells
+Gpcpd1,1,1,0,Same
+Gpn2,1,0,1,> ES cells
+Gpsm3,1,0,1,> ES cells
+Grk4,1,1,0,> B cells
+Grk6,1,1,0,Same
+Grsf1,1,0,1,> ES cells
+Gsk3b,1,1,0,> B cells
+Gss,1,0,1,> ES cells
+Gstcd,1,0,1,> ES cells
+Gtf2a1,1,1,0,> B cells
+Gtf2b,1,0,1,> ES cells
+Gtf2h5,1,1,0,> B cells
+Gtf3c6,1,0,1,> ES cells
+GtROSA26Sor,1,1,0,> ES cells
+H3f3a,1,0,1,> ES cells
+Hagh,1,0,1,> ES cells
+Haus8,1,0,1,> ES cells
+Hcfc1,1,0,1,> ES cells
+Heatr7a,1,0,1,> ES cells
+Herc3,1,1,0,> B cells
+Hes5,1,0,1,> ES cells
+Hexim1,1,1,0,> B cells
+Hexim2,1,0,1,> ES cells
+Hilpda,1,1,0,> B cells
+Hipk1,1,1,0,> B cells
+Hist1h1d,1,0,1,> ES cells
+Hist1h1t,1,0,1,> ES cells
+Hist1h2ak,1,0,1,> ES cells
+Hist1h2bb,1,0,1,Same
+Hist1h2bh,1,0,1,> ES cells
+Hist1h2bn,1,0,1,> ES cells
+Hist1h3c,1,0,1,Same
+Hist1h3e,1,0,1,> ES cells
+Hist1h3f,1,0,1,> ES cells
+Hist1h4k,1,0,1,> ES cells
+Hlcs,1,0,1,> ES cells
+Hmga1,1,1,0,Same
+Hmgcl,1,0,1,> ES cells
+Hmgn2,1,0,1,> ES cells
+Hn1,1,0,1,Same
+Hnrnph1,1,0,1,> ES cells
+Hnrnpu,1,0,1,> ES cells
+Hnrnpul2,1,0,1,> ES cells
+Hs2st1,1,0,1,> ES cells
+Hsd17b7,1,0,1,> ES cells
+Hsf1,1,0,1,> ES cells
+Hsp90ab1,1,1,0,> B cells
+Hspbp1,1,0,1,> ES cells
+Icam4,1,0,1,Same
+Icam5,1,0,1,Same
+Idh3g,1,0,1,> ES cells
+Idi1,1,0,1,> ES cells
+Ifnar1,1,0,1,> ES cells
+Ik,1,0,1,> ES cells
+Inf2,1,0,1,> ES cells
+Ing2,1,0,1,Same
+Inpp5f,1,1,0,> B cells
+Inpp5k,1,1,0,Same
+Insig2,1,1,0,Same
+Insr,1,0,1,> ES cells
+Ints12,1,0,1,> ES cells
+Ints6,1,0,1,> ES cells
+Ipo5,1,0,1,> ES cells
+Irf1,1,0,1,> ES cells
+Isca1,1,0,1,> ES cells
+Itgav,1,1,0,> B cells
+Itpa,1,1,0,> B cells
+Ivns1abp,1,1,0,> B cells
+Junb,1,0,1,> ES cells
+Kank3,1,0,1,> ES cells
+Kat5,1,0,1,> ES cells
+Kbtbd2,1,1,0,> B cells
+Kcmf1,1,1,0,> B cells
+Kctd1,1,1,0,> B cells
+Kctd20,1,1,0,Same
+Kctd3,1,0,1,> ES cells
+Kctd7,1,1,0,> B cells
+Kdelr1,1,0,1,> ES cells
+Kdm3a,1,0,1,Same
+Kdm5a,1,0,1,> ES cells
+Khnyn,1,0,1,> ES cells
+Khsrp,1,0,1,#N/A
+Kif11,1,0,1,> ES cells
+Kif23,1,0,1,Same
+Kif5a,1,0,1,> ES cells
+Kis2,1,0,1,#N/A
+Klf7,1,1,0,> B cells
+Klhdc4,1,0,1,> ES cells
+Kptn,1,1,0,#N/A
+Kras,1,0,1,> ES cells
+Lamp2,1,1,0,Same
+Laptm4a,1,0,1,> ES cells
+Larp1b,1,1,0,> B cells
+Lasp1,1,0,1,> ES cells
+Lass2,1,0,1,> ES cells
+Ldha,1,0,1,> ES cells
+Leo1,1,1,0,> B cells
+Lias,1,0,1,> ES cells
+Lig1,1,0,1,> ES cells
+Lin54,1,1,0,> B cells
+Lmna,1,0,1,> ES cells
+Lmo7,1,1,0,> B cells
+Lpp,1,1,0,> B cells
+Lrp6,1,0,1,> ES cells
+Lrrc14,1,0,1,> ES cells
+Lrrc45,1,0,1,> ES cells
+Lsm14b,1,0,1,> ES cells
+Lysmd1,1,0,1,> ES cells
+Lysmd3,1,0,1,> ES cells
+Lztr1,1,0,1,> ES cells
+M6pr,1,1,0,> B cells
+Maea,1,0,1,> ES cells
+Malt1,1,1,0,#N/A
+Maml3,1,1,0,> B cells
+Man2b1,1,1,0,> B cells
+Map3k6,1,0,1,> ES cells
+Map4k1,1,1,0,> B cells
+March7,1,1,0,> B cells
+Mars,1,0,1,> ES cells
+Matr3,1,1,0,> B cells
+Mbd2,1,0,1,> ES cells
+Mbip,1,0,1,Same
+Mcart1,1,0,1,> ES cells
+Mcm9,1,0,1,> ES cells
+Mcoln1,1,0,1,> ES cells
+Mdm1,1,0,1,> ES cells
+Mef2d,1,1,0,> B cells
+Megf8,1,0,1,> ES cells
+Mesdc2,1,0,1,> ES cells
+Mettl14,1,1,0,> B cells
+Mettl3,1,0,1,> ES cells
+Mettl6,1,0,1,> ES cells
+Mfsd10,1,1,0,> B cells
+Mgat2,1,0,1,> ES cells
+Mgat5,1,1,0,Same
+Mier3,1,0,1,> ES cells
+Mir1900,1,0,1,Same
+Mir1934,1,0,1,> ES cells
+Mir5100,1,0,1,> ES cells
+Mir706,1,0,1,> ES cells
+Mir760,1,1,0,> B cells
+Mixl1,1,1,0,> B cells
+Mlec,1,0,1,> ES cells
+Mll1,1,1,0,> B cells
+Mmd,1,1,0,> B cells
+Mmp11,1,0,1,> ES cells
+Moap1,1,1,0,> B cells
+Mob1b,1,0,1,> ES cells
+Mocs3,1,0,1,> ES cells
+Morc2a,1,1,0,> B cells
+Morf4l1,1,1,0,> B cells
+Mpdu1,1,0,1,> ES cells
+Mpnd,1,0,1,> ES cells
+Mpst,1,0,1,> ES cells
+Mpv17l2,1,0,1,> ES cells
+Mrpl15,1,0,1,> ES cells
+Mrpl17,1,0,1,Same
+Mrpl28,1,0,1,> ES cells
+Mrpl39,1,0,1,> ES cells
+Mrpl45,1,0,1,> ES cells
+Mrpl51,1,0,1,> ES cells
+Mrps2,1,0,1,> ES cells
+Mrps26,1,0,1,> ES cells
+Mrps34,1,0,1,> ES cells
+Msh6,1,0,1,> ES cells
+Mtap1s,1,0,1,> ES cells
+Mtch1,1,1,0,> B cells
+Mtl5,1,0,1,> ES cells
+Mtmr12,1,0,1,> ES cells
+Mtmr14,1,1,0,> B cells
+Mttp,1,0,1,#N/A
+Mutyh,1,0,1,> ES cells
+Mxi1,1,0,1,> ES cells
+Mybbp1a,1,1,0,> B cells
+Mylpf,1,0,1,> ES cells
+Myo9b,1,0,1,> ES cells
+N4bp2,1,0,1,#N/A
+Naa40,1,0,1,#N/A
+Nacc1,1,0,1,#N/A
+Napepld,1,0,1,> ES cells
+Ncapd2,1,0,1,> ES cells
+Ncbp2,1,1,0,> B cells
+Ncoa4,1,0,1,> ES cells
+Ncstn,1,0,1,> ES cells
+Ndfip1,1,0,1,> ES cells
+Ndufa13,1,1,0,> B cells
+Ndufa2,1,0,1,> ES cells
+Ndufa7,1,1,0,> B cells
+Ndufb10,1,0,1,> ES cells
+Ndufb4,1,0,1,> ES cells
+Ndufb8,1,0,1,> ES cells
+Ndufb9,1,0,1,> ES cells
+Ndufs7,1,0,1,> ES cells
+Ndufs8,1,1,0,> B cells
+Nfe2l1,1,0,1,> ES cells
+Nfkb2,1,1,0,> B cells
+Nfkbie,1,1,0,> B cells
+Nfkbil1,1,0,1,> ES cells
+Nfx1,1,1,0,> B cells
+Nfya,1,0,1,Same
+Nfyb,1,0,1,> ES cells
+Ngly1,1,1,0,> B cells
+Nid2,1,0,1,> ES cells
+Nisch,1,0,1,> ES cells
+Nktr,1,1,0,> B cells
+Nme3,1,0,1,> ES cells
+Nmt2,1,0,1,> ES cells
+Noa1,1,0,1,> ES cells
+Nop14,1,1,0,> B cells
+Nop56,1,0,1,> ES cells
+Nop58,1,0,1,> ES cells
+Notch1,1,1,0,> B cells
+Notch2,1,0,1,Same
+Notch4,1,0,1,> ES cells
+Npat,1,0,1,> ES cells
+Npb,1,0,1,> ES cells
+Npm1,1,0,1,> ES cells
+Nptn,1,0,1,Same
+Nqo2,1,0,1,#N/A
+Nr2c2,1,0,1,> ES cells
+Nrf1,1,0,1,> ES cells
+Nrm,1,0,1,> ES cells
+Nsd1,1,0,1,#N/A
+Nt5c2,1,1,0,> B cells
+Nubp1,1,1,0,> ES cells
+Nup54,1,0,1,> ES cells
+Nup98,1,0,1,> ES cells
+Oaz1,1,0,1,> ES cells
+Opn3,1,1,0,> B cells
+Orai1,1,0,1,> B cells
+Orc6,1,1,0,> B cells
+Osgep,1,0,1,Same
+Oxct1,1,0,1,> ES cells
+Oxsm,1,1,0,> B cells
+Pa2g4,1,0,1,> ES cells
+Pafah1b1,1,0,1,> ES cells
+Pak2,1,1,0,> B cells
+Pan3,1,1,0,#N/A
+Pank4,1,0,1,> ES cells
+Parp10,1,0,1,> ES cells
+Parp6,1,0,1,> ES cells
+Patz1,1,0,1,> ES cells
+Pbx2,1,0,1,> ES cells
+Pbx3,1,1,0,> B cells
+Pcmtd1,1,1,0,Same
+Pcnp,1,0,1,Same
+Pdlim7,1,0,1,> ES cells
+Pdp1,1,1,0,> B cells
+Pex10,1,0,1,> ES cells
+Pfkfb2,1,0,1,> ES cells
+Pfn1,1,0,1,Same
+Pgap2,1,0,1,> ES cells
+Pgls,1,0,1,> ES cells
+Pgrmc1,1,0,1,> ES cells
+Phc1,1,0,1,> ES cells
+Phf21a,1,0,1,> ES cells
+Phf7,1,1,0,> B cells
+Phkg2,1,0,1,> ES cells
+Pias1,1,0,1,> ES cells
+Pias4,1,0,1,> ES cells
+Picalm,1,1,0,> B cells
+Pigo,1,0,1,> ES cells
+Pigy,1,1,0,> B cells
+Pih1d1,1,0,1,> ES cells
+Pik3r1,1,0,1,Same
+Pik3r3,1,1,0,> B cells
+Pim2,1,1,0,> B cells
+Pin1,1,0,1,> ES cells
+Pink1,1,1,0,Same
+Pitpnm1,1,0,1,Same
+Plagl2,1,1,0,> B cells
+Plcg2,1,0,1,> ES cells
+Pld3,1,0,1,> ES cells
+Plekhf2,1,1,0,> B cells
+Plekhg5,1,1,0,Same
+Pnkd,1,0,1,> ES cells
+Pnn,1,0,1,> ES cells
+Pnp,1,0,1,Same
+Pnpla6,1,0,1,> ES cells
+Pnpo,1,0,1,Same
+Podxl2,1,1,0,> B cells
+Pofut1,1,1,0,> B cells
+Pogz,1,0,1,> ES cells
+Pold2,1,1,0,> B cells
+Polg2,1,0,1,> ES cells
+Polr2b,1,0,1,> ES cells
+Polr2e,1,0,1,> ES cells
+Pom121,1,0,1,> ES cells
+Pou2f2,1,1,0,> ES cells
+Ppa2,1,0,1,> ES cells
+Ppia,1,1,0,> B cells
+Ppm1d,1,0,1,> ES cells
+Ppm1f,1,0,1,> ES cells
+Ppp4c,1,0,1,> ES cells
+Ppp4r1,1,0,1,> ES cells
+Pqbp1,1,0,1,> ES cells
+Pqlc1,1,0,1,> ES cells
+Prdx1,1,0,1,Same
+Prkaa1,1,0,1,> ES cells
+Prkci,1,0,1,Same
+Prkd3,1,1,0,> B cells
+Prmt7,1,1,0,> B cells
+Prpf38b,1,1,0,> B cells
+Prpf40b,1,0,1,> ES cells
+Prr3,1,1,0,#N/A
+Prss36,1,0,1,#N/A
+Prune,1,0,1,> ES cells
+Prx,1,0,1,> ES cells
+Psd,1,0,1,> ES cells
+Psmb4,1,0,1,> ES cells
+Psmb9,1,1,0,> B cells
+Psmc3,1,0,1,> ES cells
+Psmc4,1,0,1,#N/A
+Psmd2,1,0,1,> ES cells
+Ptbp1,1,1,0,> B cells
+Ptdss2,1,0,1,> ES cells
+Pten,1,0,1,> ES cells
+Ptma,1,1,0,> B cells
+Ptp4a1,1,1,0,> B cells
+Ptpn7,1,0,1,> ES cells
+Ptpra,1,0,1,> ES cells
+Pts,1,0,1,> ES cells
+Puf60,1,0,1,> ES cells
+Pura,1,0,1,> ES cells
+Pwwp2a,1,0,1,> ES cells
+Pxmp4,1,0,1,> ES cells
+Pxn,1,1,0,> B cells
+Pycard,1,0,1,> ES cells
+R3hdm1,1,0,1,> ES cells
+Rab10,1,1,0,> B cells
+Rab11a,1,1,0,> B cells
+Rab13,1,0,1,> ES cells
+Rab14,1,1,0,> B cells
+Rab30,1,1,0,> B cells
+Rab3d,1,0,1,> ES cells
+Rab3gap1,1,1,0,> B cells
+Rab3ip,1,0,1,> ES cells
+Rabep1,1,0,1,> ES cells
+Rabep2,1,1,0,Same
+Rabgap1l,1,1,0,> B cells
+Rac3,1,0,1,> ES cells
+Rad9b,1,0,1,> ES cells
+Rae1,1,1,0,Same
+Ralbp1,1,0,1,> ES cells
+Ralgps2,1,0,1,> ES cells
+Rasd1,1,1,0,> B cells
+Rbks,1,1,0,> B cells
+Rbm12,1,0,1,> ES cells
+Rbm15,1,1,0,> B cells
+Rbm38,1,1,0,> B cells
+Rbm39,1,1,0,> B cells
+Rbm4b,1,0,1,> ES cells
+Rbm7,1,1,0,> B cells
+Rbpjl,1,0,1,Same
+Rchy1,1,0,1,> ES cells
+Rcl1,1,1,0,> B cells
+Rdx,1,1,0,> B cells
+Recql4,1,0,1,> ES cells
+Relt,1,1,0,> B cells
+Reps1,1,0,1,> ES cells
+Rev1,1,0,1,#N/A
+Rfc4,1,1,0,> B cells
+Rfx7,1,1,0,> B cells
+Rg9mtd2,1,0,1,#N/A
+Rhbdf2,1,0,1,> ES cells
+Rhebl1,1,1,0,Same
+Rhog,1,1,0,> B cells
+Ribc1,1,1,0,> B cells
+Rimbp3,1,0,1,> ES cells
+Rltpr,1,0,1,#N/A
+Rmnd1,1,0,1,> ES cells
+Rnf111,1,0,1,> ES cells
+Rnf149,1,0,1,> ES cells
+Rnf213,1,0,1,> ES cells
+Rnf34,1,1,0,> B cells
+Rnf5,1,0,1,> ES cells
+RP23-268N22.1,1,1,0,> B cells
+RP23-278M16.2,1,1,0,Same
+RP23-391M18.7,1,0,1,> ES cells
+RP24-372P19.1,1,0,1,> ES cells
+Rpl10a,1,0,1,> ES cells
+Rpl17,1,0,1,> ES cells
+Rpl28,1,0,1,> ES cells
+Rpl30,1,0,1,> ES cells
+Rpl35,1,0,1,> ES cells
+Rpl36al,1,0,1,> ES cells
+Rpl41,1,0,1,> ES cells
+Rpl9,1,0,1,> ES cells
+Rprd1b,1,0,1,> ES cells
+Rprd2,1,0,1,> ES cells
+Rps19bp1,1,0,1,> ES cells
+Rps2,1,0,1,> ES cells
+Rps27,1,0,1,> ES cells
+Rps27a,1,1,0,> B cells
+Rps28,1,1,0,> B cells
+Rps3,1,1,0,> B cells
+Rps6ka1,1,0,1,> ES cells
+Rps6kc1,1,0,1,> ES cells
+Rrm2b,1,0,1,> ES cells
+Rundc1,1,0,1,> ES cells
+Sac3d1,1,0,1,> ES cells
+Sacs,1,0,1,Same
+Sars,1,0,1,> ES cells
+Scamp3,1,0,1,> ES cells
+Scnm1,1,0,1,> ES cells
+Scrib,1,0,1,> ES cells
+Sdha,1,0,1,> ES cells
+Sec23a,1,0,1,> ES cells
+Sec61g,1,0,1,> ES cells
+Sema7a,1,1,0,> B cells
+Sep15,1,0,1,> ES cells
+Sephs2,1,1,0,Same
+Sept1,1,0,1,> ES cells
+Serac1,1,1,0,> B cells
+Sertad2,1,1,0,> ES cells
+Setd4,1,0,1,> ES cells
+Setd5,1,1,0,> ES cells
+Sf1,1,1,0,> B cells
+Sf3b3,1,0,1,> ES cells
+Sfr1,1,0,1,> ES cells
+Sfxn2,1,0,1,> ES cells
+Sfxn5,1,0,1,> ES cells
+Sh2b1,1,0,1,> ES cells
+Sh2b3,1,1,0,> B cells
+Sh3gl1,1,1,0,> ES cells
+Sh3glb1,1,0,1,> ES cells
+Sik2,1,1,0,> B cells
+Sike1,1,0,1,> ES cells
+Sip1,1,0,1,> ES cells
+Sirt5,1,0,1,#N/A
+Skil,1,1,0,Same
+Slc1a5,1,0,1,> ES cells
+Slc25a38,1,0,1,Same
+Slc25a4,1,1,0,> B cells
+Slc26a2,1,0,1,> ES cells
+Slc31a2,1,1,0,> B cells
+Slc38a10,1,0,1,> ES cells
+Slc39a1,1,0,1,> ES cells
+Slc3a2,1,0,1,> ES cells
+Slc5a6,1,0,1,> ES cells
+Slc7a6os,1,1,0,> B cells
+Slk,1,0,1,> ES cells
+Slx1b,1,0,1,> ES cells
+Smap1,1,0,1,> ES cells
+Smarca4,1,1,0,> B cells
+Smarcd2,1,1,0,#N/A
+Smarce1,1,0,1,> ES cells
+Smc1a,1,1,0,> B cells
+Smc3,1,0,1,> ES cells
+Smcr7,1,0,1,> ES cells
+Smcr8,1,1,0,> B cells
+Smg5,1,0,1,> ES cells
+Snhg12,1,0,1,> ES cells
+Snhg9,1,0,1,> ES cells
+SNORA14,1,0,1,> ES cells
+Snora16a,1,0,1,> ES cells
+Snora44,1,0,1,> ES cells
+SNORA51,1,0,1,> ES cells
+SNORA61,1,1,0,Same
+Snora61,1,0,1,Same
+Snora64,1,0,1,> ES cells
+SNORA70,1,1,0,> B cells
+Snora78,1,0,1,> ES cells
+Snord110,1,0,1,> ES cells
+Snord15a,1,1,0,> B cells
+Snord2,1,1,0,> B cells
+Snord49a,1,0,1,#N/A
+Snord49b,1,0,1,#N/A
+SNORD58,1,0,1,> ES cells
+Snord58b,1,0,1,> ES cells
+Snord65,1,0,1,#N/A
+SNORD95,1,0,1,Same
+Snord99,1,0,1,> ES cells
+Snrnp25,1,1,0,> B cells
+Snrpe,1,1,0,> B cells
+Snx22,1,1,0,> B cells
+Soat1,1,0,1,Same
+Sod2,1,0,1,> ES cells
+Sp3,1,1,0,> B cells
+Spag5,1,1,0,> B cells
+Spata24,1,0,1,> ES cells
+Specc1l,1,1,0,> B cells
+Spg11,1,0,1,> ES cells
+Spna2,1,0,1,> ES cells
+Spnb2,1,0,1,> ES cells
+Spns1,1,0,1,> ES cells
+Spop,1,0,1,> ES cells
+Spred3,1,0,1,Same
+Spty2d1,1,1,0,> B cells
+Src,1,0,1,Same
+Srcrb4d,1,0,1,> ES cells
+Srd5a3,1,0,1,> ES cells
+Srebf1,1,0,1,> ES cells
+Srebf2,1,0,1,> ES cells
+Srl,1,0,1,> ES cells
+Srp68,1,1,0,> B cells
+Srp9,1,0,1,> B cells
+Srprb,1,1,0,> B cells
+Srrm2,1,0,1,Same
+Srsf10,1,1,0,#N/A
+Srsf3,1,0,1,Same
+Srsf5,1,0,1,> ES cells
+Srsf9,1,0,1,> ES cells
+Ss18,1,1,0,> B cells
+Ssna1,1,0,1,> ES cells
+Ssr4,1,0,1,> ES cells
+St3gal3,1,1,0,> B cells
+St6galnac4,1,0,1,> ES cells
+St7l,1,0,1,> ES cells
+Stag2,1,0,1,> ES cells
+Stap2,1,0,1,> ES cells
+Stard4,1,1,0,> B cells
+Stat3,1,1,0,> B cells
+Stim1,1,1,0,> B cells
+Stk11ip,1,0,1,> ES cells
+Stk4,1,1,0,> B cells
+Stradb,1,1,0,> B cells
+Strn4,1,1,0,> B cells
+Stub1,1,0,1,> ES cells
+Syngr2,1,1,0,> B cells
+Syngr4,1,0,1,> ES cells
+Tacc1,1,0,1,Same
+Tacc3,1,1,0,> B cells
+Tada3,1,0,1,> ES cells
+Taf15,1,0,1,> ES cells
+Taf4a,1,0,1,> ES cells
+Taf5,1,0,1,> ES cells
+Taf8,1,1,0,Same
+Taok1,1,0,1,#N/A
+Tap1,1,1,0,> B cells
+Tardbp,1,0,1,> ES cells
+Tatdn1,1,0,1,> ES cells
+Taz,1,0,1,> ES cells
+Tceb3,1,1,0,#N/A
+Tctex1d4,1,0,1,> ES cells
+Tec,1,1,0,> B cells
+Tex2,1,0,1,> ES cells
+Tex22,1,0,1,> ES cells
+Tex261,1,0,1,> ES cells
+Tfip11,1,0,1,> ES cells
+Tgfbr1,1,1,0,Same
+Thap6,1,0,1,> ES cells
+Tial1,1,0,1,> ES cells
+Timm17b,1,0,1,> ES cells
+Tk2,1,1,0,> B cells
+Tlcd2,1,1,0,> B cells
+Tmbim6,1,0,1,Same
+Tmc8,1,1,0,> B cells
+Tmcc1,1,1,0,> B cells
+Tmem109,1,1,0,> B cells
+Tmem129,1,1,0,> B cells
+Tmem143,1,0,1,> ES cells
+Tmem165,1,0,1,> ES cells
+Tmem168,1,1,0,> B cells
+Tmem185b,1,0,1,> ES cells
+Tmem198b,1,0,1,> ES cells
+Tmem209,1,0,1,> ES cells
+Tmem222,1,0,1,> ES cells
+Tmem41b,1,1,0,> B cells
+Tmem57,1,0,1,> ES cells
+Tmem79,1,0,1,> ES cells
+Tmf1,1,1,0,> B cells
+Toe1,1,0,1,> ES cells
+Tomm20,1,0,1,> ES cells
+Tomm22,1,0,1,> ES cells
+Tomm34,1,1,0,> B cells
+Top3a,1,1,0,> B cells
+Tpm3,1,0,1,#N/A
+Traf2,1,1,0,> B cells
+Traf5,1,0,1,Same
+Trak2,1,1,0,> B cells
+Tram1,1,1,0,Same
+Trappc5,1,1,0,Same
+Trappc6b,1,0,1,Same
+Trim28,1,0,1,> ES cells
+Trim41,1,0,1,> B cells
+Trim65,1,0,1,> ES cells
+Trit1,1,0,1,> ES cells
+Trmt1,1,0,1,> B cells
+Trnau1ap,1,0,1,> ES cells
+Trp53i11,1,0,1,#N/A
+Tspan1,1,1,0,> B cells
+Tssk6,1,1,0,> B cells
+Tst,1,0,1,> ES cells
+Ttc39b,1,1,0,> B cells
+Ttc7,1,0,1,> ES cells
+Ttc9c,1,0,1,> ES cells
+Ttf2,1,1,0,> ES cells
+Tti1,1,0,1,> ES cells
+Ttl,1,0,1,> ES cells
+Tuba1a,1,0,1,> ES cells
+Tuba4a,1,0,1,> ES cells
+Tubb4b,1,0,1,Same
+Tubg1,1,0,1,> ES cells
+Tubgcp5,1,1,0,> B cells
+Tug1,1,1,0,> B cells
+Twf1,1,0,1,> ES cells
+Txndc9,1,0,1,> ES cells
+Txnip,1,0,1,> ES cells
+Txnl4a,1,0,1,> ES cells
+U4atac,1,0,1,> ES cells
+Uba52,1,0,1,> ES cells
+Uba7,1,1,0,> B cells
+Ube2m,1,0,1,> ES cells
+Ube4a,1,1,0,> B cells
+Ubox5,1,0,1,> ES cells
+Ubr7,1,1,0,> B cells
+Ubxn2a,1,0,1,> ES cells
+Upf1,1,0,1,> ES cells
+Upf3a,1,0,1,> ES cells
+Uros,1,0,1,> ES cells
+Usp48,1,1,0,#N/A
+Usp53,1,1,0,> B cells
+Utp3,1,0,1,> ES cells
+Vamp1,1,0,1,> ES cells
+Vav2,1,1,0,> B cells
+Vcp,1,1,0,> B cells
+Vcpip1,1,0,1,> ES cells
+Vezf1,1,1,0,> B cells
+Vps29,1,0,1,> ES cells
+Vps35,1,1,0,> B cells
+Wars,1,1,0,Same
+Wbp11,1,1,0,> B cells
+Wdr18,1,1,0,> B cells
+Wdr25,1,1,0,Same
+Wdr47,1,1,0,> B cells
+Wdr83,1,1,0,> B cells
+Wdr89,1,0,1,> ES cells
+Wibg,1,0,1,> ES cells
+Wnk1,1,0,1,> ES cells
+Wsb2,1,0,1,#N/A
+Xpo1,1,0,1,> ES cells
+Xrn1,1,0,1,> ES cells
+Yod1,1,0,1,> ES cells
+Ypel5,1,1,0,> B cells
+Ywhaq,1,0,1,> ES cells
+Ywhaz,1,1,0,Same
+Zbtb38,1,1,0,> B cells
+Zbtb43,1,0,1,> ES cells
+Zbtb7b,1,0,1,> ES cells
+Zc3h10,1,0,1,> ES cells
+Zc3h4,1,0,1,> ES cells
+Zc3hav1,1,1,0,> B cells
+Zcchc9,1,1,0,Same
+Zdhhc18,1,0,1,> ES cells
+Zdhhc24,1,0,1,> ES cells
+Zeb1,1,1,0,Same
+Zer1,1,0,1,> ES cells
+Zfml,1,0,1,> ES cells
+Zfp119b,1,0,1,> ES cells
+Zfp143,1,0,1,> ES cells
+Zfp219,1,0,1,#N/A
+Zfp239,1,1,0,> B cells
+Zfp251,1,0,1,Same
+Zfp26,1,0,1,> ES cells
+Zfp318,1,0,1,> ES cells
+Zfp324,1,0,1,#N/A
+Zfp346,1,0,1,#N/A
+Zfp407,1,0,1,> ES cells
+Zfp41,1,0,1,> ES cells
+Zfp51,1,1,0,Same
+Zfp524,1,0,1,> ES cells
+Zfp553,1,0,1,> ES cells
+Zfp579,1,0,1,> ES cells
+Zfp62,1,1,0,> B cells
+Zfp628,1,0,1,> ES cells
+Zfp651,1,1,0,> B cells
+Zfp689,1,0,1,> ES cells
+Zfp692,1,0,1,> ES cells
+Zfp707,1,0,1,> ES cells
+Zfp712,1,0,1,> ES cells
+Zfp746,1,0,1,> ES cells
+Zfp777,1,0,1,> ES cells
+Zfpm1,1,0,1,> ES cells
+Zkscan14,1,0,1,> ES cells
+Zkscan5,1,0,1,> ES cells
+Zkscan6,1,1,0,> B cells
+Zmym3,1,0,1,> ES cells
+Zmynd8,1,0,1,> ES cells
+Znhit2-ps,1,1,0,> B cells
+Znrd1,1,0,1,Same
+Znrd1as,1,0,1,Same
+Zranb3,1,0,1,> ES cells
+Zscan22,1,0,1,#N/A
+Zzef1,1,1,0,> B cells

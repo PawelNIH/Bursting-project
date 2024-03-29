@@ -1,0 +1,22 @@
+library(ggplot2)
+library(plyr)
+library(xtable)
+library(reshape)
+library(lattice)
+library(latticeExtra)
+library(hexbin) 
+library(GenomicRanges)
+library(rtracklayer)
+library(Rsamtools)
+library(biomaRt)
+library(broom)
+library(LSD)
+
+res_rep1_ERCC <- read.table("HCT_nonStarved_halflife_rep1.txt", sep="\t", header=T, stringsAsFactors=F)
+res_rep2_ERCC <- read.table("HCT_nonStarved_halflife_rep2.txt", sep="\t", header=T, stringsAsFactors=F)
+res_rep3_ERCC <- read.table("HCT_nonStarved_halflife_rep3.txt", sep="\t", header=T, stringsAsFactors=F)
+
+hist(log10(res_rep1_ERCC$half_life_hr), n=200, main="log10 rep1 half life")
+hist(log10(res_rep2_ERCC$half_life_hr), n=200, main="log10 rep2 half life")
+hist(log10(res_rep3_ERCC$half_life_hr), n=200, main="log10 rep3 half life")
+
